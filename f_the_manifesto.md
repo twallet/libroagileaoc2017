@@ -1,4 +1,4 @@
-# F*** the Manifesto
+# F * * * the Manifesto
 
 Por Juan Gabardini, @jgabardini
 
@@ -8,7 +8,7 @@ Hace +20 años que se definió Scrum y +15 desde el Agile Manifesto. Es tiempo d
 
 Este texto es una ampliación a presentación que di en Ágiles 2015 [http://www.slideshare.net/jgabardini/f-the-manifesto-54574475](http://www.slideshare.net/jgabardini/f-the-manifesto-54574475)
 
-# De dónde venimos: Agile y su contexto
+## De dónde venimos: Agile y su contexto
 
 En los '70 y '80 el software creció en complejidad y tamaño hasta convertirse el principal componente de costo en el desarrollo de sistemas, por sobre el hardware.
 
@@ -20,7 +20,7 @@ En esos momentos, la metáfora de construcción de software predominante eran lo
 
 En ese contexto surgieron varias alternativas, que buscaron resolver la *Crisis del Software* desde otro lado: Scrum (1995), Crystal (1992-1997), Extreme Programming (1996) y otras. Estas formas alternativas tuvieron éxito entre los innovadores y los *early adopters*. Nota: ver la curva de adopción de innovaciones en [http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html](http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html) 
 
-# The Agile  Manifesto
+## The Agile  Manifesto
 
 En 2001 se reunieron 17 personas representantes de varias de estas formas alternativas de desarrollar software. Unieron a todas ellas bajo el paraguas Agile Software Development como una estrategia para de llegar al *mainstream *(Mayoría temprana en la curva de adopción de innovaciones).
 
@@ -42,7 +42,7 @@ Una forma de sacarnos el dogmatismo es aceptar que todas nuestras creencias pued
 
 Nota: siempre podemos releer cambiando la definición de las palabras, para acomodarlo a que signifique lo que queremos que signifique: "cuando decimos software funcionando queremos decir valor de negocio", "cuando decimos contrato queremos decir acuerdo", … Cada uno es libre de autoengañarse. 
 
-## Lenguaje usado en los valores
+### Lenguaje usado en los valores
 
 En este análisis usaré los niveles de Tribal Leaderhip. Si no los conoces, la forma más rápida de entender lo que que sigue es ver el video [https://www.ted.com/talks/david_logan_on_tribal_leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership)
 
@@ -58,11 +58,7 @@ La forma en que están escritos los valores (Valoramos …. Sobre ….), muy pre
 
 Además, esa forma se volvió obsoleta en cuanto la agilidad se volvió *mainstream*. Cada vez más personas, equipos y organizaciones llegan a la agilidad sin haber pasado ni por PMI, ni por CMMi ni por RUP.
 
-## Individuos e interacciones sobre procesos y herramientas
-
-![image alt text](image_0.png)
-
-Figura 1 - El proceso de desarrollo
+### Individuos e interacciones sobre procesos y herramientas
 
 Aquí usaré el concepto de Arful e Industrial making, podés ver una desripción breve [http://softwareagil.blogspot.com.ar/2009/07/artful-making.html](http://softwareagil.blogspot.com.ar/2009/07/artful-making.html)
 
@@ -84,7 +80,7 @@ Un punto central, a veces perdido de vista, en este balance entre individuos y p
 
 * Un proceso definido por el equipo tomado la forma en que hacemos el trabajo actualmente, como base para los experimentos de mejora del mismo equipo para avanzar hacia un objetivo desafiante, con tiempos definidos por el equipo (si querés profundizar, buscá Toyota Kata).
 
-## Software funcionando sobre documentación extensiva
+### Software funcionando sobre documentación extensiva
 
 Este valor parece especialmente apuntado a contrastar con CMMi / PMI / RUP. Esta comparación es anacrónica y ha perdido relevancia. Tanto CMMi, PMI y RUP se han ocupado en acercarse a Agile todo lo posible.
 
@@ -97,7 +93,7 @@ Ejemplo: En el primer equipo en el que participé desarrollando ágilmente pasam
 En relación al costo de mantenimiento, buscamos lograr que el costo del cambio en el software implique un cambio acotado en la documentación, no dependiente del tamaño total. Es una condición necesaria para el desarrollo iterativo e incremental (costo de reconfiguración en Artful making). Ejemplos de esto es tener documentación ejecutable (potencialmente escrita antes que el software), corriendo en ambientes de Integración continua. Esto permite que la documentación desactualizada se detecte rápidamente. Tiene otros beneficios, para profundizar, ver el libro Specification by Example de Gojko Adzic.
 Otro ejemplo, queremos que el costo de operación del software sea bajo y se mantenga así a lo largo del ciclo de vida, el uso y la evolución, del sistema. Entonces en vez de documentar el proceso de instalación, conviene automatizar la creación de ambientes (provisioning) y la instalación y configuración del software. 
 
-## Colaboración con el cliente sobre negociación contractual
+### Colaboración con el cliente sobre negociación contractual
 
 Este valor asume que tenemos un cliente con quien colaborar o resolver nuestras diferencias consultando el contrato. Nuevamente, está pensado desde el punto de vista de un equipo de desarrollo de software, mientras que el cliente es alguien externo (o que se comporta como un externo) que paga por el trabajo del equipo.
 
@@ -109,7 +105,7 @@ Hay varias cosas que no me gustan de este valor:
 
 * No siempre tenemos un contrato con el cliente/usuario. En proyectos open source tenemos donaciones, en startups y en la organización de un evento, tenemos un equipo que tiene acuerdo internos, pero el que paga llega cuando mucho del trabajo ya está hecho. En estos contextos, este valor se vuelve irrelevante.
 
-## Respuesta ante el cambio sobre seguir un plan
+### Respuesta ante el cambio sobre seguir un plan
 
 ¿Dónde está nuestro proyecto,  en el espacio Caótico, Complejo, Complicado o Obvio? (estoy usando la terminología de Cynefin). En este valor se asume que estamos en el espacio de lo complejo. Refleja el Inspeccionar y Adaptar. Esto puede ser correcto en muchos casos, pero no siempre. Por ejemplo, en la forma de proceso que indicamos en la Figura 1, esperaría que el proceso de despliegue sea predecible y según el plan. Que la forma de desplegar sea Obvia. El problema de los bordes caóticos entre Obvio y Caótico me llevan a pensar en antifragilidad y herramientas como *Chaos Monkey*. No en Inspeccionar y Adaptar.
 
@@ -123,7 +119,7 @@ Este valor está llamando la atención sobre una forma rígida de definir los pl
 
 Pero eso es una mala aplicación de la idea del plan. También podríamos decir que "Preferimos preparar nuestro plan para que incorporar los cambios no sean catastróficos".
 
-## Lo que no está en los valores
+### Lo que no está en los valores
 
 Además de lo ya comentado, algunas practicantes encontraron que en los valores no se hace referencia a la calidad de lo construido. Se disparó entonces el movimiento de Artesanos del software (*Craftmanship*).
 
@@ -131,11 +127,11 @@ La visión del artesano orgulloso de su trabajo suele expresarse con lenguaje **
 
 En ambos casos, hay principios relacionados a la calidad técnica y la mejora continua en el Manifesto, pero no en los valores.
 
-# ¿Y si lo mejoramos?
+## ¿Y si lo mejoramos?
 
 El Agile Manifesto fue sumamente exitoso y equipo que gana no se toca. Por ello, pasaron muchos años antes que se sintiera la necesidad de replantear los acuerdos, como comunidad. Y es difícil de lograr un nuevo acuerdo, que sume una masa crítica de voluntades, quizás por eso tardaron tanto en surgir nuevas propuestas. Comento a continuación, sólo como disparadores de la discusión, algunas de las ideas que conozco al respecto. Hay puntos en común, algunos evidentes (como Experimentation y Experimenta y aprende rápido) y otros más sutiles, como el foco en la forma de aprendizaje presente en la propuesta de Kokoro y la propuesta de ir a Modern Agile sin pasar por las formas históricas.
 
-## Navigating Complexity
+### Navigating Complexity
 
 Propuesto por Tobias Mayer y Alan Cyment, alrededor de la metáfora entre los sistemas Orgánicos y Mecánicos, plantea los siguientes valores: 
 
@@ -149,7 +145,7 @@ Propuesto por Tobias Mayer y Alan Cyment, alrededor de la metáfora entre los si
 
 Puenden ver una presentación aquí: [https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016](https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016)
 
-## Heart of Agile y Kororo
+### Heart of Agile y Kororo
 
 Propuesto por Alistair Cockburn, plantea que cada person que pasó por los estados de Shu -  Ha - Ri, al llegar a Ri tiene contacto con la esencia, el cetro, de la disciplina (kokoro). Cuanto trata de explicarla, transmitirla, a los que inician el camino (Shu) necesariamente la simplifica. Cada maestro de la disciplina puede llegar a una simplificación distinta. 
 
@@ -167,7 +163,7 @@ Heart of Agile: [http://alistair.cockburn.us/HeartOfAgile](http://alistair.cockb
 
 Sobre la idea del maesto que enseña: [http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill](http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill)
 
-## Modern Agile
+### Modern Agile
 
 Propuesto por Joshua Kerievsky, resultado de talleres comunitarios. A partir del brainstorming original se fueron agrupando hasta llegar a cuatro principios. Entiendo de las presentaciones de Joshua que las organizaciones siguieron "descubriendo formas mejores de desarrollar software", y que no hay justificativos para pasar por las técnicas que eran útiles hace 20 años, podemos ir directamente a las actuales. Plantea los siguientes principios
 
@@ -181,7 +177,7 @@ Propuesto por Joshua Kerievsky, resultado de talleres comunitarios. A partir del
 
 Creo que es el que más material tiene en este momento, descripción, presentaciones, videos, traducciones: http://modernagile.org/ 
 
-# Conclusión
+## Conclusión
 
 Estamos entrando en una zona de turbulencias, como comunidad, donde la referencia de quienes somos o qué hacemos no es tan clara. Sin embargo, creo que cada una de las propuestas tiene valor y podemos, cada uno, empezar probando con cualquiera de ellas, ver si nos sentimos cómodos/ si es útil. Sobre esa experiencia, quizás decante en un nuevo consenso. ¡Y si no al menos no desperdiciamos tiempo discutiendo cual es "la correcta"!
 

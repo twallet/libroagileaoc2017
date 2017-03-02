@@ -1,4 +1,4 @@
-# Ensayos Ágile
+# Ensayos Ágiles
 
 ## Sobre este libro
 
