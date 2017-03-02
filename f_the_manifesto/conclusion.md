@@ -1,3 +1,0 @@
-## Conclusión {#conclusi-n}
-
-Estamos entrando en una zona de turbulencias, como comunidad, donde la referencia de quienes somos o qué hacemos no es tan clara. Sin embargo, creo que cada una de las propuestas tiene valor y podemos, cada uno, empezar probando con cualquiera de ellas, ver si nos sentimos cómodos/ si es útil. Sobre esa experiencia, quizás decante en un nuevo consenso. ¡Y si no al menos no desperdiciamos tiempo discutiendo cual es &quot;la correcta&quot;!

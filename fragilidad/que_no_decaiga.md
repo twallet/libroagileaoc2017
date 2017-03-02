@@ -1,5 +1,0 @@
-## Que no decaiga {#que-no-decaiga}
-
-Sospecho que algunos lectores no llegarán a este punto pues soy consciente que las ideas compartidas en los párrafos anteriores pueden haber sonado desalentadoras, conflictivas, negativas. Incluso algún lector podría tildar dichas ideas como estupideces. Tal vez lo sean.
-
-Pero para aquellos que llegaron hasta aquí, en primer lugar les agradezco por tomarse el tiempo de leer todo lo anterior. Puede que se estén preguntando cual fue mi objetivo al compartir estas ideas polémicas. La respuesta es simple: pensar, reflexionar y en última instancia llamar a la acción. Aquellos que tiene un rol de docentes, instructores, consultores, facilitadores espero tomen conciencia de estas percepciones distintas de la agilidad. Todos los cuestionamientos aquí planteados no son obra mía, sino que son el resultado de intercambios con diversos colegas y clientes.
