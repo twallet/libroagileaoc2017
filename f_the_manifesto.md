@@ -1,4 +1,4 @@
-F*** the Manifesto
+# F*** the Manifesto
 
 Por Juan Gabardini, @jgabardini
 
@@ -6,7 +6,7 @@ Etiquetas: lean, agile manifesto, cynefin, artful making
 
 Han pasado 20 años desde la definición de Scrum y 15 desde la creación del Manifiesto Ágil (*Agile Manifesto*). Es tiempo de dejar atrás algunas soluciones a problemas que ya no existen y repensar, desde el contexto actual, qué queremos lograr, y cómo. Este texto es una ampliación a la [presentación que di en Ágiles 2015](http://www.slideshare.net/jgabardini/f-the-manifesto-54574475)
 
-# De dónde venimos: Agile y su contexto
+## De dónde venimos: Agile y su contexto
 
 En los '70 y '80 el software creció en complejidad y tamaño, por sobre el hardware, hasta convertirse en el principal componente de costo en el desarrollo de sistemas. La causa principal fue que los procesos para crear software no evolucionaron de manera acorde a la creciente complejidad.
 
@@ -18,7 +18,7 @@ En ese contexto surgieron varias alternativas que buscaron resolver la *Crisis d
 
 Figura 1 - Curva de adopción de innovaciones
 
-Curva de adopción de innovaciones [ˆ1]:
+Curva de adopción de innovaciones[ˆ1]:
 
 [ˆ1]: Ver [http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html](http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html).
 
@@ -32,7 +32,7 @@ Curva de adopción de innovaciones [ˆ1]:
 
 * Rezagados: Evitan los riesgos. Postergan todo lo posible la adopción.
 
-# El Manifiesto Ágil
+## El Manifiesto Ágil
 
 En 2001, 17 personas representantes de formas alternativas de desarrollo de software deciden unir dichas metodologías bajo el paraguas de *Desarrollo Ágil de Software* como una manera para llegar a la mayoría de los desarrolladores de software. Además del nombre común que sirve de marca, publicaron un Manifiesto que consiste en 4 valores y 12 principios, que permite limitar quiénes pueden usar la marca.
 
@@ -58,7 +58,7 @@ Una forma de sacarnos el dogmatismo es aceptar que todas nuestras creencias pued
 
 Nota: Siempre podemos resignificar el Manifiesto cambiando la definición de las palabras, para acomodarlo a que signifique lo que queremos que signifique: "cuando decimos software funcionando queremos decir valor de negocio", "cuando decimos contrato queremos decir acuerdo", … Cada uno es libre de autoengañarse y nos deslizamos hacia una secta, como se comenta en el capítulo "¿El agilismo es una secta?".
 
-## Lenguaje usado en los valores
+### Lenguaje usado en los valores
 
 En este análisis usaré los niveles del lenguaje según lo descrito en *Tribal Leaderhip* [ˆ7]:
 
@@ -84,7 +84,7 @@ Como comentó Brian Marick en el keynote de Ágiles 2009, para algunos, la llega
 
 En el Manifiesto Ágil se presentan los valores como una comparación "Valoramos […] por sobre […]". Los firmantes iniciales del Manifiesto lo escribieron desde los valores compartidos (lenguaje **Nivel 4**), pero muchos han usado esos valores como comparación individual, "mis valores son mejores que los tuyos", que es lenguaje **Nivel 3**. Además, esa forma se volvió obsoleta en cuanto la agilidad se volvió *mainstream*. Cada vez más personas, equipos y organizaciones llegan a la agilidad sin haber pasado ni por PMI, ni por CMMi ni por RUP.
 
-## Individuos e interacciones sobre procesos y herramientas
+### Individuos e interacciones sobre procesos y herramientas
 
 ![image alt text](JG-2.png)
 
@@ -92,7 +92,7 @@ Figura 2 - El proceso de desarrollo
 
 Aquí usaré dos conceptos [ˆ8]:
 
-[ˆ8]: Una desripción un poco más extensa está en [http://softwareagil.blogspot.com.ar/2009/07/artful-making.html](http://softwareagil.blogspot.com.ar/2009/07/artful-making.html) y el libro Arful making, Lee Devin y Robert D. Austin.
+[ˆ8]: Una descripción un poco más extensa está en [http://softwareagil.blogspot.com.ar/2009/07/artful-making.html](http://softwareagil.blogspot.com.ar/2009/07/artful-making.html) y el libro Arful making, Lee Devin y Robert D. Austin.
 
 * *Arful making*: los trabajos de creación e innovación que tienen bajo costo para iterar. Implica exploración de alternativas y cambio constante. Ejemplos: preparación de una obra de teatro, desarrollo de software, creación de un plan de negocios.
 
@@ -116,7 +116,7 @@ Un punto central, a veces perdido de vista, en este balance entre individuos y p
 
 * Un proceso definido por el equipo tomado la forma en que hacemos el trabajo actualmente, como base para los experimentos de mejora del mismo equipo para avanzar hacia un objetivo desafiante, con tiempos definidos por el equipo (si querés profundizar, buscá Toyota Kata).
 
-## Software funcionando sobre documentación extensiva
+### Software funcionando sobre documentación extensiva
 
 Este valor parece especialmente apuntado a contrastar con CMMi / PMI / RUP. Esta comparación es anacrónica y ha perdido relevancia. Tanto CMMi, PMI y RUP se han ocupado en acercarse a Agile todo lo posible.
 
@@ -133,7 +133,7 @@ Otro ejemplo es disminuir o eliminar los documentos de instalación. Se pueden r
 
 [ˆ10]: Para ver con más profundidad las alternativas de la documentación, ver el libro Specification by Example de Gojko Adzic.
 
-## Colaboración con el cliente sobre negociación contractual
+### Colaboración con el cliente sobre negociación contractual
 
 Este valor asume que tenemos un cliente con quien colaborar o resolver nuestras diferencias consultando el contrato. Nuevamente, está pensado desde el punto de vista de un equipo de desarrollo de software, mientras que el cliente es alguien externo (o que se comporta como un externo) que paga por el trabajo del equipo.
 
@@ -145,7 +145,7 @@ Hay varias cosas que no me gustan de este valor:
 
 * No siempre tenemos un contrato con el cliente/usuario. En proyectos open source tenemos donaciones, en startups y en la organización de un evento, tenemos un equipo que tiene acuerdo internos, pero el que paga llega cuando mucho del trabajo ya está hecho. En estos contextos, este valor se vuelve irrelevante.
 
-## Respuesta ante el cambio sobre seguir un plan
+### Respuesta ante el cambio sobre seguir un plan
 
 Diferentes situaciones requieren ser tratadas de diferente manera, el marco Cynefin nos ayuda en eso proponiendo estos espacios:
 
@@ -171,7 +171,7 @@ Este valor está llamando la atención sobre una forma rígida de definir los pl
 
 Pero eso es una mala aplicación de la idea del plan. También podríamos decir que "Preferimos preparar planes tal que incorporar cambios no sean catastrófico".
 
-## Lo que no está en los valores
+### Lo que no está en los valores
 
 Además de lo ya comentado, algunas practicantes encontraron que en los valores no se hace referencia a la calidad de lo construido. 
 
@@ -181,7 +181,7 @@ No hay en los valores referencia a la mejora continua de los equipos. Si se agre
 
 En ambos casos, hay principios relacionados a la calidad técnica y la mejora continua en los principios del Manifiesto Ágil, pero no en los valores.
 
-# ¿Y si lo mejoramos?
+## ¿Y si lo mejoramos?
 
 El Manifiesto Ágil fue sumamente exitoso y equipo que gana no se toca [ˆ12]. Por ello, pasaron muchos años antes que se sintiera la necesidad, como comunidad, de replantear los acuerdos que surgieron en la reunión original. Y es difícil lograr nuevos acuerdos que sumen una masa crítica de voluntades, quizás por eso tardaron tanto en surgir nuevas propuestas. Comento a continuación, sólo como disparadores de la discusión, algunas de las ideas que conozco al respecto. Hay puntos en común, algunos evidentes (como Experimentation y Experimenta y aprende rápido) [ˆ13] y otros más sutiles, como el foco en la forma de aprendizaje presente en la propuesta de Kokoro y la propuesta de ir a Modern Agile sin pasar por las formas históricas.
 
@@ -189,7 +189,7 @@ El Manifiesto Ágil fue sumamente exitoso y equipo que gana no se toca [ˆ12]. P
 
 [ˆ13]: También presente en "Cuando el Arte ataque" de Martín Salias, en este libro.
 
-## Navigating Complexity
+### Navigating Complexity
 
 Propuesto por Tobias Mayer [ˆ13] y Alan Cyment, alrededor de la metáfora entre los sistemas Orgánicos y Mecánicos, plantea los siguientes valores:
 
@@ -203,7 +203,7 @@ Propuesto por Tobias Mayer [ˆ13] y Alan Cyment, alrededor de la metáfora entre
 
 * *Experimentation*
 
-## Heart of Agile y Kokoro
+### Heart of Agile y Kokoro
 
 Propuesto por Alistair Cockburn, plantea que cada persona que pasó por los estados de Shu -  Ha - Ri, al llegar a Ri tiene contacto con la esencia, el centro, de la disciplina (kokoro) [ˆ14]. Cuanto trata de explicarla, transmitirla, a los que inician el camino (Shu) necesariamente la simplifica. Cada maestro de la disciplina puede llegar a una simplificación distinta.
 
@@ -221,7 +221,7 @@ En Heart of Agile [ˆ15] o kokoro de Agile, según Alistair, él busca que el pr
 
 * *Improve*
 
-## Modern Agile
+### Modern Agile
 
 Joshua Kerievsky participó de una serie de talleres realizados en eventos comunitarios. A partir del brainstorming original se fueron agrupando las ideas hasta llegar a cuatro. En el Agile 2017 presentó un keynote en la que comentó que, más allá del valor que tuvo el Manifiesto Ágil y las metodologías de esa época, es tiempo de ir más allá. Y que no hay justificativos para pasar por las técnicas que eran útiles hace 20 años, podemos ir directamente a las actuales[ˆ16]. Plantea los siguientes principios guía:
 
@@ -235,7 +235,7 @@ Joshua Kerievsky participó de una serie de talleres realizados en eventos comun
 
 * Experimenta y aprende rápido
 
-# Conclusión
+## Conclusión
 
 Estamos entrando en una zona de turbulencias, como comunidad, donde la referencia de quiénes somos o qué hacemos no es tan clara. Sin embargo, creo que cada una de las propuestas tiene valor y podemos, cada uno, empezar probando con cualquiera de ellas, ver si nos sentimos cómodos y si es útil. Sobre esa experiencia, quizás decante en un nuevo consenso. ¡Y si no, al menos no desperdiciamos tiempo discutiendo cual es "la correcta"!
 
