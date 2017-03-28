@@ -14,7 +14,7 @@ A inicios de los '90, el desarrollo de software se había transformado en el cue
 
 En ese contexto surgieron varias alternativas que buscaron resolver la *Crisis del Software* desde otro paradigma: Scrum (1995), Crystal (1992-1997), Extreme Programming (1996) y otras. Estas formas alternativas tuvieron éxito entre los *Innovadores* y *Primeros seguidores*. 
 
-![image alt text](JG-1.png)
+![Curva de adopción de innovaciones](assets/jg-1.png)
 
 Figura 1 - Curva de adopción de innovaciones
 
@@ -86,7 +86,7 @@ En el Manifiesto Ágil se presentan los valores como una comparación "Valoramos
 
 ### Individuos e interacciones sobre procesos y herramientas
 
-![image alt text](JG-2.png)
+![El proceso de desarrollo](assets/jg-2.png)
 
 Figura 2 - El proceso de desarrollo
 
