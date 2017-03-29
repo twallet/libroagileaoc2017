@@ -1,5 +1,8 @@
 # Introducción
+
 Por Nicolás Paez, @inicopaez
+
+Version: alfa 2, 20170329
 
 ## Sobre este libro
 
@@ -7,11 +10,12 @@ Este libro es el tercer libro de la serie Agile Open Camp. En [el primer libro](
 
 Al igual que en los casos anteriores, cada capítulo del libro es obra de una autor distinto y en principio no hay relación entre los capítulos, aunque en algunas cosas hay referencias de unos a otros.
 
-
 ## Orden de lectura
-Los capítulos pueden ser leídos en cualquier orden ya que como se mencionó anteriormente, son totalmente independientes y su orden de aparición no sigue ningún criterio particular. 
+
+Los capítulos pueden ser leídos en cualquier orden ya que como se mencionó anteriormente, son totalmente independientes y su orden de aparición no sigue ningún criterio particular.
 
 ## Créditos
+
 Autores: Juan Gabardini, Nicolás Paez, Vanesa Savino y Thomas Wallet
 
 Gráficos: Omar Fernández
@@ -19,3 +23,4 @@ Gráficos: Omar Fernández
 Revisión: Cora Fassina y Nicolás Paez
 
 Idea y coordinación: Nicolás Paez
+
