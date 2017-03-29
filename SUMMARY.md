@@ -6,3 +6,4 @@
 * [F*** the Manifesto](f_the_manifesto.md)
 * [Los derechos slow del equipo ágil](slow.md)
 * [¿Y si agilizamos todo?](y_si_agilizamos_todo.md)
+* [Cuando el Arte ataque](arte_ataque.md)
