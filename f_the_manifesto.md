@@ -1,4 +1,4 @@
-# F* * * the Manifesto
+# F\*\*\* the Manifesto
 
 Por Juan Gabardini, @jgabardini
 
