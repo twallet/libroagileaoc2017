@@ -1,4 +1,4 @@
-# F*** the Manifesto
+# F* * * the Manifesto
 
 Por Juan Gabardini, @jgabardini
 
@@ -20,8 +20,6 @@ Figura 1 - Curva de adopción de innovaciones
 
 Curva de adopción de innovaciones[ˆ1]:
 
-[ˆ1]: Ver [http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html](http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html).
-
 * Innovadores: Valoran lo nuevo.
 
 * Primeros seguidores: Valoran la utilidad y aceptan inconvenientes y detalles no pulidos.
@@ -40,29 +38,17 @@ Una forma de entender la estrategia que utilizaron es tomando la curva de adopci
 
 Pero el éxito tuvo también costos [ˆ2]. Para pasar de los *Innovadores* y *Primeros seguidores* a la *Mayoría** temprana* se debe cambiar el foco de la innovación [ˆ3]. Se busca mejorar la usabilidad [ˆ4]. Debe ser fácil de implementar, de mantener. Buscamos tener lenguajes comunes, simplificar. Porque el limitante es llegar a personas y organizaciones menos propensas a soportar los inconvenientes (*glitches)* de las nuevas tecnologías.
 
-[ˆ2]: Ver "(fr)ágil" de Nicolás Páez, en este libro.
-
-[ˆ3]: Ver Crossing the Chasm de Geoffrey Moore.
-
-[ˆ4]: Fontdevila, Diego, A Tool Evaluation Framework based on fitness to Process and Practice. A usability driven approach, ICSEA 2014, The Ninth International Conference on Software Engineering Advances, Niza, 2014.
-
 Durante la etapa de *Mayoría temprana *la escalabilidad de la innovación es el principal limitante. ¿Cuán rápido podemos brindar el producto/servicio? En este caso, ¿cuán rápido pueden adoptar agilidad las personas, los equipos, las organizaciones? En esta instancia buscamos tener soluciones estandarizadas, FAQ, soporte de expertos [ˆ5].
-
-[ˆ5]: Ver Inside the Tornado, de Geoffrey Moore.
 
 El costo de esta simplificación y estandarización es que, como comunidad de práctica, nos hemos vuelto dogmáticos y menos innovadores. Veo esto más notorio con los Valores del Manifiesto. Algunas personas de la comunidad utilizan los valores como si estos fueran inamovibles y absolutos. "Si hacemos un proceso automático para (...) Hey, valoramos Individuos e interacciones sobre procesos y herramientas".
 
 Una forma de sacarnos el dogmatismo es aceptar que todas nuestras creencias pueden ser criticadas con el objeto de entenderlas y, quizás, encontrar limitaciones o alternativas. Analizaré a continuación los valores, con esa mirada crítica [ˆ6].
-
-[ˆ6]: Ver [http://alistair.cockburn.us/oath+of+non-allegiance](http://alistair.cockburn.us/oath+of+non-allegiance).
 
 Nota: Siempre podemos resignificar el Manifiesto cambiando la definición de las palabras, para acomodarlo a que signifique lo que queremos que signifique: "cuando decimos software funcionando queremos decir valor de negocio", "cuando decimos contrato queremos decir acuerdo", … Cada uno es libre de autoengañarse y nos deslizamos hacia una secta, como se comenta en el capítulo "¿El agilismo es una secta?".
 
 ### Lenguaje usado en los valores
 
 En este análisis usaré los niveles del lenguaje según lo descrito en *Tribal Leaderhip* [ˆ7]:
-
-[ˆ7]: Ver el video [https://www.ted.com/talks/david_logan_on_tribal_leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership) y el libro Tribal Leaderhip de Dave Logan y John King.
 
 1. Derrotado: (todo en) La vida es una porquería.
 
@@ -91,8 +77,6 @@ En el Manifiesto Ágil se presentan los valores como una comparación "Valoramos
 Figura 2 - El proceso de desarrollo
 
 Aquí usaré dos conceptos [ˆ8]:
-
-[ˆ8]: Una descripción un poco más extensa está en [http://softwareagil.blogspot.com.ar/2009/07/artful-making.html](http://softwareagil.blogspot.com.ar/2009/07/artful-making.html) y el libro Arful making, Lee Devin y Robert D. Austin.
 
 * *Arful making*: los trabajos de creación e innovación que tienen bajo costo para iterar. Implica exploración de alternativas y cambio constante. Ejemplos: preparación de una obra de teatro, desarrollo de software, creación de un plan de negocios.
 
@@ -125,13 +109,9 @@ Pero analicemos cada parte con más profundidad:
 * "Software funcionando": ¿Es nuestro principal objetivo? ¿Cuál es el valor de lo que hacemos? Nos podemos preguntar si el software está siendo usado, cuál es el nivel de satisfacción del cliente en relación a  la experiencia completa, o cuál es el impacto de negocio logrado [ˆ9]. 
 Ejemplo: En el primer equipo del que participé desarrollando ágilmente, pasamos de estar desarrollando un año sin un producto entregado, a desarrollar en 6 semanas y luego cada 15 días, un incremento de producto. Pero el resultado neto para la empresa fue el mismo, no se vendió ni una licencia del producto.
 
-[ˆ9]: Corresponde al Derecho Slow #2 del capítulo "Nuestros Derechos Slow" de Thomas Wallet.
-
 * "Documentación extensiva": ¿Es un problema la documentación extensiva? Prefiero cambiar la pregunta por: ¿Cuál es el valor de la documentación y cuáles son los problemas relacionados con la documentación? La documentación puede ser usada para comunicación dentro del equipo, comunicación con el equipo futuro (para operar, mantener y evolucionar) o para terceros (clientes, entes reguladores). Los problemas de la documentación son el costo de generar, usar y mantener actualizada. Para cada uno de los usos habituales, podemos encontrar soluciones alternativas que no tengan los problemas planteados. 
 En relación al costo de mantenimiento, buscamos lograr que el cambio en el software implique un cambio acotado en la documentación. Es una condición necesaria para el desarrollo iterativo e incremental (costo de reconfiguración en Artful making) que el costo esté relacionado con el tamaño cambio y no con el tamaño total del producto. Ejemplos de esto es tener documentación ejecutable (potencialmente escrita antes que el software), corriendo en ambientes de Integración continua. Esto permite que la documentación desactualizada se detecte rápidamente [ˆ10].
 Otro ejemplo es disminuir o eliminar los documentos de instalación. Se pueden reemplazar por automatización, tanto para la creación de los ambientes (*provisioning*), instalación y configuración. 
-
-[ˆ10]: Para ver con más profundidad las alternativas de la documentación, ver el libro Specification by Example de Gojko Adzic.
 
 ### Colaboración con el cliente sobre negociación contractual
 
@@ -165,8 +145,6 @@ Ejemplo Scrum: Si digo que planifico mi iteración (sprint) en Planificación, R
 
 Ejemplo Open Space Technology [ˆ11]: Es una forma de organizar conferencias en las que la agenda de actividades se define al inicio del evento. La estructura del evento está definida,  tiene una apertura, luego se proponen las sesiones, se realizan las sesiones y por último se hace el cierre. No tiene definido los oradores/ facilitadores de cada sesión, ni los temas de cada sesión. Se recuerda siempre que los asistentes son responsables de gestionar su tiempo y elegir lo que creen que aporta más valor. Si cumplimos con el horario de cierre, a pesar que alguna de las últimas sesiones no finalizó, ¿Estamos siguiendo un plan y no respondiendo al cambio?
 
-[ˆ11]: Más información sobre el open space, de Maica Trinidad: [http://reeelab.com/2013/02/16/manual-de-instrucciones-para-un-open-space/](http://reeelab.com/2013/02/16/manual-de-instrucciones-para-un-open-space/).
-
 Este valor está llamando la atención sobre una forma rígida de definir los planes al inicio y seguirlos sin cambios. 
 
 Pero eso es una mala aplicación de la idea del plan. También podríamos decir que "Preferimos preparar planes tal que incorporar cambios no sean catastrófico".
@@ -185,15 +163,9 @@ En ambos casos, hay principios relacionados a la calidad técnica y la mejora co
 
 El Manifiesto Ágil fue sumamente exitoso y equipo que gana no se toca [ˆ12]. Por ello, pasaron muchos años antes que se sintiera la necesidad, como comunidad, de replantear los acuerdos que surgieron en la reunión original. Y es difícil lograr nuevos acuerdos que sumen una masa crítica de voluntades, quizás por eso tardaron tanto en surgir nuevas propuestas. Comento a continuación, sólo como disparadores de la discusión, algunas de las ideas que conozco al respecto. Hay puntos en común, algunos evidentes (como Experimentation y Experimenta y aprende rápido) [ˆ13] y otros más sutiles, como el foco en la forma de aprendizaje presente en la propuesta de Kokoro y la propuesta de ir a Modern Agile sin pasar por las formas históricas.
 
-[ˆ12]: Los firmantes originales acordaron no modificar el documento inicial: [http://alistair.cockburn.us/What+are+you+reaching+for%3f+or%2c+why+the+agile+manifesto+won't+get+rewritten](http://alistair.cockburn.us/What+are+you+reaching+for%3f+or%2c+why+the+agile+manifesto+won't+get+rewritten).
-
-[ˆ13]: También presente en "Cuando el Arte ataque" de Martín Salias, en este libro.
-
 ### Navigating Complexity
 
-Propuesto por Tobias Mayer [ˆ13] y Alan Cyment, alrededor de la metáfora entre los sistemas Orgánicos y Mecánicos, plantea los siguientes valores:
-
-[ˆ13]: Ver [https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016](https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016)
+Propuesto por Tobias Mayer [ˆ14] y Alan Cyment, alrededor de la metáfora entre los sistemas Orgánicos y Mecánicos, plantea los siguientes valores:
 
 * *Dreaming*
 
@@ -205,13 +177,9 @@ Propuesto por Tobias Mayer [ˆ13] y Alan Cyment, alrededor de la metáfora entre
 
 ### Heart of Agile y Kokoro
 
-Propuesto por Alistair Cockburn, plantea que cada persona que pasó por los estados de Shu -  Ha - Ri, al llegar a Ri tiene contacto con la esencia, el centro, de la disciplina (kokoro) [ˆ14]. Cuanto trata de explicarla, transmitirla, a los que inician el camino (Shu) necesariamente la simplifica. Cada maestro de la disciplina puede llegar a una simplificación distinta.
+Propuesto por Alistair Cockburn, plantea que cada persona que pasó por los estados de Shu -  Ha - Ri, al llegar a Ri tiene contacto con la esencia, el centro, de la disciplina (kokoro) [ˆ15]. Cuanto trata de explicarla, transmitirla, a los que inician el camino (Shu) necesariamente la simplifica. Cada maestro de la disciplina puede llegar a una simplificación distinta.
 
-[ˆ14] Sobre la idea del maestro que enseña: [http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill](http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill)
-
-En Heart of Agile [ˆ15] o kokoro de Agile, según Alistair, él busca que el principiante pueda tener una guía clara de qué hacer y por ello propone acciones:
-
-[ˆ15]: Heart of Agile: [http://alistair.cockburn.us/HeartOfAgile](http://alistair.cockburn.us/HeartOfAgile) / pdf: [http://alistair.cockburn.us/get/3613](http://alistair.cockburn.us/get/3613)
+En Heart of Agile [ˆ16] o kokoro de Agile, según Alistair, él busca que el principiante pueda tener una guía clara de qué hacer y por ello propone acciones:
 
 * *Collaborate*
 
@@ -223,9 +191,7 @@ En Heart of Agile [ˆ15] o kokoro de Agile, según Alistair, él busca que el pr
 
 ### Modern Agile
 
-Joshua Kerievsky participó de una serie de talleres realizados en eventos comunitarios. A partir del brainstorming original se fueron agrupando las ideas hasta llegar a cuatro. En el Agile 2017 presentó un keynote en la que comentó que, más allá del valor que tuvo el Manifiesto Ágil y las metodologías de esa época, es tiempo de ir más allá. Y que no hay justificativos para pasar por las técnicas que eran útiles hace 20 años, podemos ir directamente a las actuales[ˆ16]. Plantea los siguientes principios guía:
-
-[ˆ16]: Material, descripción, presentaciones, videos, traducciones: [http://modernagile.org/](http://modernagile.org/).
+Joshua Kerievsky participó de una serie de talleres realizados en eventos comunitarios. A partir del brainstorming original se fueron agrupando las ideas hasta llegar a cuatro. En el Agile 2017 presentó un keynote en la que comentó que, más allá del valor que tuvo el Manifiesto Ágil y las metodologías de esa época, es tiempo de ir más allá. Y que no hay justificativos para pasar por las técnicas que eran útiles hace 20 años, podemos ir directamente a las actuales[ˆ17]. Plantea los siguientes principios guía:
 
 * Haz que las personas sean geniales
 
@@ -239,3 +205,36 @@ Joshua Kerievsky participó de una serie de talleres realizados en eventos comun
 
 Estamos entrando en una zona de turbulencias, como comunidad, donde la referencia de quiénes somos o qué hacemos no es tan clara. Sin embargo, creo que cada una de las propuestas tiene valor y podemos, cada uno, empezar probando con cualquiera de ellas, ver si nos sentimos cómodos y si es útil. Sobre esa experiencia, quizás decante en un nuevo consenso. ¡Y si no, al menos no desperdiciamos tiempo discutiendo cual es "la correcta"!
 
+[ˆ1]: Ver [http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html](http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html).
+
+[ˆ2]: Ver "(fr)ágil" de Nicolás Páez, en este libro.
+
+[ˆ3]: Ver Crossing the Chasm de Geoffrey Moore.
+
+[ˆ4]: Fontdevila, Diego, A Tool Evaluation Framework based on fitness to Process and Practice. A usability driven approach, ICSEA 2014, The Ninth International Conference on Software Engineering Advances, Niza, 2014.
+
+[ˆ5]: Ver Inside the Tornado, de Geoffrey Moore.
+
+[ˆ6]: Ver [http://alistair.cockburn.us/oath+of+non-allegiance](http://alistair.cockburn.us/oath+of+non-allegiance).
+
+[ˆ7]: Ver el video [https://www.ted.com/talks/david_logan_on_tribal_leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership) y el libro Tribal Leaderhip de Dave Logan y John King.
+
+[ˆ8]: Una descripción un poco más extensa está en [http://softwareagil.blogspot.com.ar/2009/07/artful-making.html](http://softwareagil.blogspot.com.ar/2009/07/artful-making.html) y el libro Arful making, Lee Devin y Robert D. Austin.
+
+[ˆ9]: Corresponde al Derecho Slow #2 del capítulo "Nuestros Derechos Slow" de Thomas Wallet.
+
+[ˆ10]: Para ver con más profundidad las alternativas de la documentación, ver el libro Specification by Example de Gojko Adzic.
+
+[ˆ11]: Más información sobre el open space, de Maica Trinidad: [http://reeelab.com/2013/02/16/manual-de-instrucciones-para-un-open-space/](http://reeelab.com/2013/02/16/manual-de-instrucciones-para-un-open-space/).
+
+[ˆ12]: Los firmantes originales acordaron no modificar el documento inicial: [http://alistair.cockburn.us/What+are+you+reaching+for%3f+or%2c+why+the+agile+manifesto+won't+get+rewritten](http://alistair.cockburn.us/What+are+you+reaching+for%3f+or%2c+why+the+agile+manifesto+won't+get+rewritten).
+
+[ˆ13]: También presente en "Cuando el Arte ataque" de Martín Salias, en este libro.
+
+[ˆ14]: Ver [https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016](https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016)
+
+[ˆ15] Sobre la idea del maestro que enseña: [http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill](http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill)
+
+[ˆ16]: Heart of Agile: [http://alistair.cockburn.us/HeartOfAgile](http://alistair.cockburn.us/HeartOfAgile) / pdf: [http://alistair.cockburn.us/get/3613](http://alistair.cockburn.us/get/3613)
+
+[ˆ17]: Material, descripción, presentaciones, videos, traducciones: [http://modernagile.org/](http://modernagile.org/).
