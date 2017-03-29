@@ -233,7 +233,7 @@ Estamos entrando en una zona de turbulencias, como comunidad, donde la referenci
 
 [^14]: Ver [https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016](https://www.slideshare.net/PhiliyLander/navigating-complexity-london-2016)
 
-[^15] Sobre la idea del maestro que enseña: [http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill](http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill)
+[^15]: Sobre la idea del maestro que enseña: [http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill](http://alistair.cockburn.us/Shu,+Play,+Kokoro+are+3+doorways+into+a+skill)
 
 [^16]: Heart of Agile: [http://alistair.cockburn.us/HeartOfAgile](http://alistair.cockburn.us/HeartOfAgile) / pdf: [http://alistair.cockburn.us/get/3613](http://alistair.cockburn.us/get/3613)
 
