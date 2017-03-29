@@ -14,6 +14,8 @@ Los capítulos pueden ser leídos en cualquier orden ya que como se mencionó an
 ## Créditos
 Autores: Juan Gabardini, Nicolás Paez, Vanesa Savino y Thomas Wallet
 
-Revisión: Natalia Baeza y Nicolás Paez
+Gráficos: Omar Fernández
+
+Revisión: Cora Fassina y Nicolás Paez
 
 Idea y coordinación: Nicolás Paez
