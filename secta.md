@@ -124,4 +124,5 @@ Sugiero estar receptivos y ayudarnos mutuamente, recordando "soltar la lupa y to
 Y cuando podamos mirar a los ojos, uno a uno, a nuestros miedos; cuando podamos observarlos y hacer las paces con ellos, se van a transformar en más y más confianza.
 
 [^1]: Mi agradecimiento a Pepe Rodríguez. Su perspectiva me ayudó en un momento de angustia y preocupación por un ser querido: http://www.pepe-rodriguez.com/Adiccion_sectas/Adiccion_sectas_art.htm
+
 [^2]: El término fue creado por Andrea Alexandra Castañeda.
