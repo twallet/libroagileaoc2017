@@ -8,12 +8,9 @@ Etiquetas: Auto-conocimiento; Ego; Comunidad; Creatividad
 
 Una forma de entender las sectas es a través de definiciones. Según la primera acepción de la Real Academia Española, una secta es una doctrina religiosa o ideológica que se aparta de lo que se considera ortodoxo. En este sentido, quizás algunos pueden creer que lo que predomina en el mundo corporativo es "lo ortodoxo" y que el agilismo promueve una ideología de innovación (es decir, alejarse de lo ortodoxo). Siguiendo con las definiciones, ahora se suele diferenciar “sectas” de “sectas destructivas”, siendo las primeras movimientos naturales de evolución de doctrinas y las segundas fuentes de problemas. 
 
-Otra forma de entender a las sectas es a través de los comportamientos de sus seguidores (NOTE:  Mi agradecimiento a Pepe Rodríguez. Su perspectiva me ayudó en un momento de angustia y preocupación por un ser querido: http://www.pepe-rodriguez.com/Adiccion_sectas/Adiccion_sectas_art.htm
- ), observando si algunos de ellos caen en comportamientos adictivos y de dependencia emocional. Es decir, desde este punto de vista lo destructivo no es la secta sino ciertas formas de vincularse con los grupos, así como lo destructivo no es el alcohol sino ciertas formas de beber. Es esta la perspectiva que a mí más me ha aportado para comprender a ciertos grupos espirituales y diversas formas de vincularse con ellos. Y por eso es que traslado esta perspectiva para analizar la cuestión del presente capítulo.
+Otra forma de entender a las sectas es a través de los comportamientos de sus seguidores[^1], observando si algunos de ellos caen en comportamientos adictivos y de dependencia emocional. Es decir, desde este punto de vista lo destructivo no es la secta sino ciertas formas de vincularse con los grupos, así como lo destructivo no es el alcohol sino ciertas formas de beber. Es esta la perspectiva que a mí más me ha aportado para comprender a ciertos grupos espirituales y diversas formas de vincularse con ellos. Y por eso es que traslado esta perspectiva para analizar la cuestión del presente capítulo.
 
 En algunos sitios web sobre Alcohólicos Anónimos ofrecen un cuestionario de preguntas para ayudar a las personas a clarificar si tienen problemas con la bebida. Luego, se han ido creando otros cuestionarios para ayudar a las personas a reconocer otros tipos de adicciones... y como no encontré ningún grupo para tratar "la adicción al agilismo" es que he creado el siguiente cuestionario:
-
-** **
 
 1. ¿Uso palabras como "sprint" en una cena familiar?
 
@@ -55,7 +52,7 @@ Entonces, "agilismo o agilidad" no tiene relevancia más allá de nuestro peque�
 
 ## ¿Qué nos pasa? Ego-agilismo y comportamientos sectarios
 
-Entonces, el término "agilismo" no es el culpable de que haya personas que nos vean como una amenaza, pero sí creo que lo son un conjunto de actitudes que podríamos llamar “ego-agilismo” (NOTE:  El término fue creado por Andrea Alexandra Castañeda.). Es decir, el problema no es la propuesta de la agilidad ni las palabras que usamos, sino darle de comer a nuestro ego, hacerlo más grande, llenarlo de la ilusión de importancia personal por tener una gran cantidad de opiniones, ideas, principios, recomendaciones. Y creo que en este ego colectivo es que a veces afloran ciertos comportamientos similares a las sectas. Y estos comportamientos pueden verse como inofensivos o preocupantes; por eso me he detenido sobre ellos, un poco por diversión, otro poco para reflexionar, y sobre todo para conectar con algo que nos está pasando.
+Entonces, el término "agilismo" no es el culpable de que haya personas que nos vean como una amenaza, pero sí creo que lo son un conjunto de actitudes que podríamos llamar “ego-agilismo”[^2]. Es decir, el problema no es la propuesta de la agilidad ni las palabras que usamos, sino darle de comer a nuestro ego, hacerlo más grande, llenarlo de la ilusión de importancia personal por tener una gran cantidad de opiniones, ideas, principios, recomendaciones. Y creo que en este ego colectivo es que a veces afloran ciertos comportamientos similares a las sectas. Y estos comportamientos pueden verse como inofensivos o preocupantes; por eso me he detenido sobre ellos, un poco por diversión, otro poco para reflexionar, y sobre todo para conectar con algo que nos está pasando.
 
 Antes de descubrir qué sucede en nuestro interior, es necesario hacernos ciertas preguntas y tener paciencia a que aflore la respuesta. Por eso aclaro que mi intención no es denunciar ciertas actitudes como "malas", sino más bien motivar la auto-observación. Si alguno de estos comportamientos son reconocidos como propios, mi sugerencia es detener la lectura y preguntarnos qué emociones nos genera, qué necesidades están vinculadas, qué nos gustaría cambiar en nosotros mismos. 
 
@@ -80,8 +77,6 @@ A continuación describo algunos comportamientos que son frecuentes en las secta
 * Negar alguno de estos comportamientos aún cuando son muy evidentes para personas de nuestro entorno familiar y/o laboral.
 
 ## Pero… ¿El agilismo ES o NO ES una secta?
-
-** **
 
 Si nuestra familia o amigos han demostrado alguna preocupación por nuestros comportamientos sectarios, lo más efectivo para tranquilizarlos es que seamos receptivos al momento de escucharlos y que compartamos algo de lo que sentimos. Es decir, que abandonemos la coraza del ego-agilismo y nos conectemos con ellos de forma genuina. Luego, si a nuestro ser querido le interesa, podemos contarle algunas diferencias entre las sectas y la agilidad:
 
@@ -120,7 +115,6 @@ Los cursos y la consultoría funcionan como aceleradores del aprendizaje, pero n
   </tr>
 </table>
 
-
 ## Para seguir pensando
 
 Cuando nos cerramos en el ego-agilismo perdemos nuestra esencia de ser una comunidad abierta y creativa. Y no sólo nos perdemos a nosotros mismos, sino también nos perdemos de trabajar en equipo con personas que tienen otras opiniones y perspectivas.
@@ -129,3 +123,6 @@ Sugiero estar receptivos y ayudarnos mutuamente, recordando "soltar la lupa y to
 
 Y cuando podamos mirar a los ojos, uno a uno, a nuestros miedos; cuando podamos observarlos y hacer las paces con ellos, se van a transformar en más y más confianza.
 
+[^1]: Mi agradecimiento a Pepe Rodríguez. Su perspectiva me ayudó en un momento de angustia y preocupación por un ser querido: http://www.pepe-rodriguez.com/Adiccion_sectas/Adiccion_sectas_art.htm
+
+[^2]: El término fue creado por Andrea Alexandra Castañeda.
