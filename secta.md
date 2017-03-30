@@ -82,8 +82,8 @@ Si nuestra familia o amigos han demostrado alguna preocupación por nuestros com
 
 <table>
   <tr>
-    <td>**Secta**</td>
-    <td>**Agilidad**</td>
+    <td>Secta</td>
+    <td>Agilidad</td>
   </tr>
   <tr>
     <td>Las sectas controlan la información y usan el engaño. A medida que vas entrando en mayor contacto con el grupo, se va revelando la información de forma gradual. Y esto, en los nuevos integrantes genera misterio y ansiedad: quieren permanecer para tener el honor de que se les revelen los conocimientos ocultos.</td>
