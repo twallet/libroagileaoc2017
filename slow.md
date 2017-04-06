@@ -6,8 +6,6 @@ Etiquetas: ritmos, velocidad, slow
 
 ¡Compañeras, compañeros! Mi nombre es Thomas, y soy un revolucionario. 
 
- 
-
 Lucho contra el culto de la velocidad en nuestra sociedad acelerada, siempre demandante, hiper-estimulante y agotadora. Con la revolución Slow, tenemos el poder de construir juntos otra realidad, ¡con ritmos adecuados para todos!
 
 En este capítulo, la revolución Slow embiste a los compradores de agilidad, que muchas veces destruyen equipos con sus gritos de "*sprint*, velocidad, más entrega y más temprano".
@@ -104,11 +102,11 @@ Suelo ver en los pedidos a los equipos ágiles una gran contradicción entre, po
 
 Es por esta contradicción que necesitamos luchar por el primero de los derechos Slow del equipo ágil:
 
-**Derecho Slow #1****: El equipo ágil trabaja con calidad**
+**Derecho Slow \#1: El equipo ágil trabaja con calidad**
 
 Este derecho obliga a darse tiempo para hacer bien las distintas tareas necesarias, y más que todo: tiempo para aprender a hacer bien las cosas. 
 
-Entre otras cosas, podemos mencionar las necesidades de (auto) capacitación, de aprender de sus errores, de leer, de practicar, de consolidar buenas prácticas técnicas[^7], de ser y/o tener mentor, de explorar herramientas, de compartir prácticas con otros, como se puede ver por ejemplo en la iniciativa *software *craftsmanship*[^8].
+Entre otras cosas, podemos mencionar las necesidades de (auto) capacitación, de aprender de sus errores, de leer, de practicar, de consolidar buenas prácticas técnicas[^7], de ser y/o tener mentor, de explorar herramientas, de compartir prácticas con otros, como se puede ver por ejemplo en la iniciativa *software craftsmanship*[^8].
 
 [^7]: En su capítulo "(Fr)agilidad", Nicolás Paez ilustra las debilidades del Scrum flácido, por sus carencias en cuestiones técnicas.
 
@@ -132,7 +130,7 @@ El equipo requiere conectarse genuinamente con las verdaderas necesidades del ne
 
 No podemos seguir de esta forma. Tenemos que luchar por el segundo de los derechos Slow del equipo ágil:
 
-**Derecho Slow #2****: El ****equipo ágil consolida conexiones reales con el negocio**
+**Derecho Slow \#2: El equipo ágil consolida conexiones reales con el negocio**
 
 Es clave darse el tiempo de generar un entendimiento genuino del negocio, de sus particularidades y sus necesidades, a través de relaciones directas con usuarios o clientes de los productos a generar.  
 
@@ -146,7 +144,7 @@ Muchas veces se pierde la posibilidad de ampliar la visión del trabajo de un eq
 
 Luchemos contra la lógica cortoplacista de optimización de los equipos con el tercero de los derechos Slow del equipo ágil:
 
-**Derecho Slow #3**: El equipo ágil construye su propio camino de crecimiento.
+**Derecho Slow \#3: El equipo ágil construye su propio camino de crecimiento**
 
 Este camino involucra, por lo menos, ir construyendo mecanismos sostenibles a niveles metodológico (darse los medios de poder trabajar bien en el tiempo) y técnico (darse los medios de construir soluciones que puedan seguir válidas técnicamente en el tiempo).
 
@@ -154,9 +152,9 @@ Desarrollar estos mecanismos sostenibles es todo un camino y una inversión para
 
 Probablemente, en algunos casos se requieren soluciones a corto plazo, donde conviene balancear este derecho con las necesidades urgentes, pero creo que es necesaria la reflexión al respecto, para entender cómo trascender este corto plazo hacia beneficios sostenibles en el tiempo. 
 
-En esencia, el cambio más profundo y más beneficioso para el equipo ágil es dejarlo encontrar su propio camino, probablemente a través de múltiples pruebas y errores[ˆ11].
+En esencia, el cambio más profundo y más beneficioso para el equipo ágil es dejarlo encontrar su propio camino, probablemente a través de múltiples pruebas y errores[^11].
 
-[ˆ11]: En su capítulo "El Coach como un impedimento", Rox Muñoz nos comenta de la importancia de enseñar al equipo ágil a encontrar su propio camino.
+[^11]: En su capítulo "El Coach como un impedimento", Rox Muñoz nos comenta de la importancia de enseñar al equipo ágil a encontrar su propio camino.
 
 ## El camino personal Slow
 
@@ -170,15 +168,15 @@ También una reflexión personal Slow ayuda a poder discernir mejor eventuales p
 
 Para fomentar estas reflexiones personales Slow, luchemos por el cuarto y último de los derechos Slow del equipo ágil:
 
-**Derecho Slow #4****: El equipo ágil ayuda a sus miembros en sus propios caminos Slow **
+**Derecho Slow \#4: El equipo ágil ayuda a sus miembros en sus propios caminos Slow**
 
 Tener este cuidado entre todos genera una motivación, una conciencia y un cuidado personal que, en mi experiencia, es muy beneficioso para cada individuo y para el equipo mismo.
 
 ## Luchemos por nuestros derechos Slow 
 
-Como bien lo dice Carl Honoré: *"En la guerra contra el culto de la velocidad, el frente de batalla está en nuestra mente"*[ˆ12]
+Como bien lo dice Carl Honoré: *"En la guerra contra el culto de la velocidad, el frente de batalla está en nuestra mente"*[^12]
 
-[ˆ11]: Elogio de la Lentitud.
+[^12]: Elogio de la Lentitud.
 
 ¡La revolución Slow está en nosotros!
 
@@ -192,8 +190,8 @@ Luchemos juntas y juntos por estos derechos Slow inalienables:
 
 **#4**: **El equipo ágil ayuda a sus miembros en sus propios caminos Slow**
 
-Necesitamos fuerza, convicción, motivación, y a veces sutileza y paciencia, pero nunca nos rendiremos. Tomemos el ejemplo de instituciones revolucionarias[ˆ12] como inspiración para seguir con la lucha. Mantengamos siempre el inconformismo respecto a las presiones constantes por la velocidad. Gritemos nuestros derechos Slow.
+Necesitamos fuerza, convicción, motivación, y a veces sutileza y paciencia, pero nunca nos rendiremos. Tomemos el ejemplo de instituciones revolucionarias[^13] como inspiración para seguir con la lucha. Mantengamos siempre el inconformismo respecto a las presiones constantes por la velocidad. Gritemos nuestros derechos Slow.
 
 Compañeras y compañeros ágiles, la revolución Slow está en marcha.
 
-[ˆ12]: The calm company
+[^13]: The calm company
