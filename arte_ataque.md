@@ -25,7 +25,7 @@ Etiquetas: diseño, feedback, evolución, arte
 
 Hoy en día estamos tratando de adaptar Scrum a proyectos de desarrollo de todo tipo. Pero  su origen, antes de que Schwaber y Sutherland trajesen la idea al mundo del software, estuvo en varias compañías –sobre todo en Japón– tratando de reinventarse a sí mismas innovando con productos que no existían y que nadie podía "diseñar" desde cero.
 
-El famoso artículo "The New New Product Development Game"[^1], que tomaron de base los autores de Scrum, se refería básicamente a ese tipo de proyectos de alta complejidad y sin definiciones claras, a la búsqueda de ideas disruptivas que generaran un mercado nuevo, y en algunos casos, salvaran a la empresa de su extinción.
+El famoso artículo "The New New Product Development Game" [^1], que tomaron de base los autores de Scrum, se refería básicamente a ese tipo de proyectos de alta complejidad y sin definiciones claras, a la búsqueda de ideas disruptivas que generaran un mercado nuevo, y en algunos casos, salvaran a la empresa de su extinción.
 
 Quienes llevamos tiempo en la comunidad ágil ya sabemos que Scrum nos sirve como "las rueditas" de aprendizaje de la bicicleta, y muchos reconocemos que es solamente parte de un camino, y no un destino.
 
@@ -127,6 +127,5 @@ Ir por el camino señalado no nos genera problemas, pero es aburrido.
 
 Recuperemos **la pasión** detrás del paradigma ágil.
 
-Takeuchi y Nonaka, "The New New Product Development Game, Hardvard Business Review, 1986.  
-[https://hbr.org/1986/01/the-new-new-product-development-game](#)
-
+[^1]: Takeuchi y Nonaka, "The New New Product Development Game, Hardvard Business Review, 1986.  
+[https://hbr.org/1986/01/the-new-new-product-development-game]
