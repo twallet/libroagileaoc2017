@@ -55,7 +55,7 @@ La necesidad de enfrentar nuevos problemas cotidianamente, comprendido por el ci
 
 Es posible que en equipos donde la metodologías ágiles están asentadas, la jerarquía desaparezca cuando hay que resolver algo urgente, y cada miembro del equipo colabore para solucionar el problema. Quizás esto se deba a que los límites jerárquicos son difusos y ocurra porque es una jerarquía relativamente horizontal; sin embargo ante un problema todos los involucrados cooperan para salir adelante.
 
-En los equipos que perciben el error como una oportunidad de mejora se da más naturalmente la transición del proceso de agilización.  Ganan la velocidad que necesitan para resolver problemas en los tiempos que corren, encarando experimentos, fallando rápido y teniendo un ciclo corto de _feedback_.
+En los equipos que perciben el error como una oportunidad de mejora se da más naturalmente la transición del proceso de agilización.  Ganan la velocidad que necesitan para resolver problemas en los tiempos que corren, encarando experimentos, fallando rápido y teniendo un ciclo corto de _feedback_[^3].
 
 Algo más que hay que tener en cuenta es que las metodologías ágiles vienen utilizándose hace bastante tiempo para desarrollo de software, por lo que la que la gente tiene más internalizado el proceso, habiendo validado los resultados del cambio.
 
@@ -67,4 +67,4 @@ Comunicar adecuadamente las expectativas del cambio es esencial, pero no puede f
 
 [^1]: Ver el capítulo ¿El agilismo es una secta? de Ingrid Astiz.
 [^2]: Para tener en cuenta como agente de cambio, ver el capítulo: El coach como impedimento de Rox Muñoz.
-
+[^3]: Estar alerta para detectar tempranamente casos de hiperproductividad, ver el capítulo Hiperproductividad: un asesino silencioso de Maria Thompson.
