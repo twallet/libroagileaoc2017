@@ -16,11 +16,10 @@ Los capítulos pueden ser leídos en cualquier orden ya que como se mencionó an
 
 ## Créditos
 
-Autores: Juan Gabardini, Nicolás Paez, Vanesa Savino y Thomas Wallet
+Autores: Juan Gabardini, Ingrid Astiz, Rox, Muñoz, Nicolás Paez, Vanesa Savino, Thomas Wallet, Martín Salías, Alejandro Faguaga, Hiroshi Hiromoto.
 
 Gráficos: Omar Fernández
 
 Revisión: Cora Fassina y Nicolás Paez
 
 Idea y coordinación: Nicolás Paez
-
