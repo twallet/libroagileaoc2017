@@ -67,4 +67,4 @@ Comunicar adecuadamente las expectativas del cambio es esencial, pero no puede f
 
 [^1]: Ver el capítulo ¿El agilismo es una secta? de Ingrid Astiz.
 [^2]: Para tener en cuenta como agente de cambio, ver el capítulo: El coach como impedimento de Rox Muñoz.
-[^3]: Estar alerta para detectar tempranamente casos de hiperproductividad, ver el capítulo Hiperproductividad: un asesino silencioso de Maria Thompson.
+[^3]: Estar alerta para detectar tempranamente casos de hiperproductividad, ver el artículo [Hiperproductividad: un asesino silencioso](http://www.fuerzatres.com/2017/04/hiperproductividad-asesino-silencioso/) de María Thompson.
