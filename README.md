@@ -2,7 +2,7 @@
 
 Por Nicolás Paez, @inicopaez
 
-Version: alfa 2, 20170329
+Version: alfa 3, 20170414
 
 ## Sobre este libro
 
@@ -16,9 +16,11 @@ Los capítulos pueden ser leídos en cualquier orden ya que como se mencionó an
 
 ## Créditos
 
-Autores: Juan Gabardini, Ingrid Astiz, Rox, Muñoz, Nicolás Paez, Vanesa Savino, Thomas Wallet, Martín Salías, Alejandro Faguaga, Hiroshi Hiromoto.
+Autores: Juan Gabardini, Ingrid Astiz, Rox Muñoz, Nicolás Paez, Vanesa Savino, Thomas Wallet, Martín Salías, Alejandro Faguaga, Hiroshi Hiromoto.
 
 Gráficos: Omar Fernández
+
+Corrección de formato digital: Omar Fernández
 
 Revisión: Cora Fassina y Nicolás Paez
 
