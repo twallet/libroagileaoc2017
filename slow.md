@@ -156,7 +156,9 @@ Podemos buscar excusas y justificaciones para retrasar la revoluci&oacute;n Slow
 &iexcl;La revoluci&oacute;n Slow est&aacute; en nosotros! Luchemos juntas y juntos por estos derechos Slow inalienables:
 
 > **#1 | El equipo &aacute;gil trabaja con calidad**
+
 > **#2 | El equipo &aacute;gil consolida conexiones genuinas con el negocio**
+
 > **#3 | El equipo &aacute;gil construye su propio camino de crecimiento**
 
 Necesitamos fuerza, convicci&oacute;n, motivaci&oacute;n, y a veces sutileza y paciencia, pero nunca nos rendiremos. Tomemos el ejemplo de instituciones revolucionarias [^16] como inspiraci&oacute;n para intensificar la lucha. Mantengamos siempre el inconformismo respecto a las presiones constantes por la velocidad. **&iexcl;Gritemos nuestros derechos Slow!**
