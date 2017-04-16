@@ -1,6 +1,7 @@
 # El Coach como un impedimento
 
 Por Rox Muñoz, @jeri4queen
+
 Etiquetas: aprendizaje, auto-organización, experimentos, reflexión
 
 Este capítulo es fruto de la reflexión y toma de conciencia sobre mi rol como Agile Coach y el impacto que he tenido en los equipos con los que he trabajado. Si bien (los equipos y yo) aprendimos e implementamos muchas prácticas ágiles, tengo un sentimiento de frustración por no lograr que el aprendizaje emerja. Asimismo, pretende ser una crítica hacia el engrandecimiento del rol del Agile Coach como ese Gurú que guía a las organizaciones.

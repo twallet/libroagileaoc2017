@@ -1,6 +1,6 @@
 # Los Derechos Slow del Equipo &Aacute;gil
 
-Por [Thomas Wallet](https://about.me/thomas.wallet)
+Por Thomas Wallet, @thomas.wallet
 
 Etiquetas: ritmos, velocidad, slow
 
