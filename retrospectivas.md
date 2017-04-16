@@ -18,8 +18,6 @@ Casi en simultáneo, descubrí *Scrum *y su famosa ceremonia llamada *la retrosp
 
 Inmediatamente la reconocí como la ceremonia más valiosa . De ahí en adelante profundicé mi conocimiento sobre esta reunión en particular: leí libros, aprendí técnicas, facilité muchísimas retrospectivas y ayudé a equipos a mejorar las suyas.
 
-Sin embargo, con el pasar del tiempo fui descubriendo que las retrospectivas son incapaces de cumplir la promesa que nosotros mismos le estamos imponiendo.
-
 ## La promesa de las retrospectivas
 
 Si revisamos la guía oficial de Scrum, nos encontraremos que el propósito de la retrospectiva se define como:
@@ -30,7 +28,7 @@ Si revisamos la guía oficial de Scrum, nos encontraremos que el propósito de l
 
 * Crear un plan para implementar las mejoras a la forma en la que el Equipo Scrum desempeña su trabajo.
 
-Y adicionalmente, en conversaciones, charlas y conferencias es muy común encontrarme respuestas como: 
+Y adicionalmente, en conversaciones, charlas y conferencias es muy común escuchar definiciones alternativas como: 
 
 * Generar mejora continua en Scrum
 
@@ -38,17 +36,17 @@ Y adicionalmente, en conversaciones, charlas y conferencias es muy común encont
 
 * Ser el motor de la mejora continua
 
-Es en esta segunda lista de afirmaciones, donde encuentro la imposición de una promesa que las retrospectivas están asumiendo, sabiendo que son incapaces de cumplirlas. En mi opinión para generar mejora continua se requiere *kaizen*, que *Masaaki Iman* define como:
+Es en este paradigma, donde encuentro la imposición de una promesa que las retrospectivas están asumiendo, sabiendo que son incapaces de cumplirlas. En mi opinión para generar mejora continua se requiere *kaizen*, que *Masaaki Iman* define como:
 
 *"Una estrategia para ganar a través del desarrollo de las personas"* (NOTE:  Genba Kaizen)
 
-Y lamentablemente, las retrospectivas están lejos de ser una estrategia ya que son únicamente una reunión de planificación con, eso sí, alto nivel de introspección.
+Lamentablemente, las retrospectivas están lejos de ser una estrategia.
 
 ## La retrospectiva es solo una reunión de planificación
 
-La palabra "solo" no busca darle una connotación despectiva a reunión sino que busca incidir en una realidad que, tengo la seguridad, es congruente con las retrospectivas en las que han podido participar u observar. Cabe resaltar que estoy asumiendo que cuando hablo de retrospectivas me refiero a retrospectivas que son bien facilitadas y llevadas, dado que retrospectivas sin planes de acción o introspección, sin rumbo ni objetivo, en mi opinión no califican ni siquiera para ser llamadas reuniones de planificación.
+La palabra "solo" no busca darle una connotación despectiva a reunión sino que busca incidir en una realidad que, tengo la seguridad, es congruente con las retrospectivas en las que han podido participar u observar. Cabe resaltar que no me refiero al mundo de las retrospectivas mal facilitadas, sino que hasta la retro perfecta es una reunión de planificación.
 
-Para clarificar mi punto voy a dar un ejemplo que viene del mundo de la mejora, donde tenemos el conocido ciclo de Shewhart o PDCA. Las siglas de PDCA corresponden a:
+Para introducir la idea me parece importante compartir un paralelismo entre el ciclo Shewhart o PDCA y la reunión de retrospectiva. Las siglas de PDCA corresponden a:
 
 * P: Planificación (Plan). En esta etapa se planifica la mejora que se quiere realizar. Se plantea una hipótesis.
 
@@ -58,9 +56,9 @@ Para clarificar mi punto voy a dar un ejemplo que viene del mundo de la mejora, 
 
 * A: Ajustar (Act). En esta etapa se capitaliza el aprendizaje generado en el ciclo de experimentación y se acciona según el aprendizaje.
 
-El ciclo de Shewhart ha sido usado históricamente para buscar mejorar continuamente procesos desde el año 1920, y ha conformado  la base de esquemas más modernos.
+El ciclo de Shewhart ha sido usado históricamente para buscar mejorar continuamente procesos desde el año 1920, y ha conformado la base de esquemas más modernos.
 
-Si tratamos de hacer un mapeo entre la retrospectiva y el ciclo PDCA nos encontraremos que la retrospectiva refleja la etapa de planificación del ciclo (la P) y deja de lado la ejecución, revisión y ajuste. 
+Si tratamos de hacer una comparación entre la retrospectiva y el ciclo PDCA nos encontraremos que la retrospectiva refleja la etapa de planificación del ciclo (la P) y deja de lado la ejecución, revisión y ajuste. 
 
 Adicionalmente al problema sobre que la retrospectiva es una reunión de planificación con una promesa que no puede cumplir (es inviable desde solo la planificación), tenemos que añadirle que en los últimos años hemos estado obsesionados con esta planificación.
 
@@ -112,5 +110,5 @@ Es así que podemos usar a la retrospectiva como gatillo para accionar la ejecuc
 
 ## Invitación 
 
-Para finalizar este capítulo les quiero hacer una invitación a que evalúes tu nivel de obsesión con las retrospectivas y destines un poco de ella a valorar más el experimento sobre el plan, y otro poco a facilitar la generación de hábitos para lograr continuidad.
+Para finalizar este capítulo les quiero hacer una invitación a que evalúen su nivel de obsesión con las retrospectivas y destinen un poco de ella a valorar más el experimento sobre el plan, y otro poco a facilitar la generación de hábitos para lograr continuidad.
 
