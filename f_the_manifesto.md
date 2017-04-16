@@ -207,7 +207,7 @@ Estamos entrando en una zona de turbulencias, como comunidad, donde la referenci
 
 [^1]: Ver [http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html](http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html).
 
-[^2]: Ver "(fr)ágil" de Nicolás Páez, en este libro.
+[^2]: Ver "Fragilidad" de Nicolás Páez, en este libro.
 
 [^3]: Ver Crossing the Chasm de Geoffrey Moore.
 
