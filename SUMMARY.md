@@ -10,3 +10,4 @@
 * [Cuando el Arte ataque](arte_ataque.md)
 * [Agilidad puertas adentro](puertas_adentro.md)
 * [Retrospectivas ≠ Mejora Continua](retrospectivas.md)
+* [Referencias](referencias.md)

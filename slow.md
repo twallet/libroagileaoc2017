@@ -23,7 +23,7 @@ En esta carrera contra el tiempo, es com&uacute;n sacrificar la calidad y el sen
 Si bien, intr&iacute;nsecamente, el **SER &Aacute;GIL** no implica estas derivaciones, muchas empresas prefieren el **HACER &Aacute;GIL** a toda costa, embarcando a todos sus equipos en esta corrida  contra el reloj.
 
 Tom De Marco, desde su larga y reconocida trayectoria, afirma: 
->Las mejores empresas que visit&eacute;, durante todos estos a&ntilde;os, nunca estaban muy apuradas [^1].
+>Las mejores empresas que visit&eacute;, durante todos estos a&ntilde;os, nunca estaban muy apuradas [Burkeman 2016].
 
 ## Del fast food al movimiento Slow
 
