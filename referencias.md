@@ -7,7 +7,7 @@
 [Elder et al. 2014] Elder C., Nidich S., Moriarty F., Nidich R., Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study, The Permanente Journal, Volume 18 No. 1, 2014
 [Fried 2017] Fried J., The Calm Company, disponible en l&iacute;nea: https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457, como estaba en abril del 2017
 [Honor&eacute; 2013] Honor&eacute; C., Elogio de la lentitud, RBA, 2013
-[Paez et al. 2017] Paez N. et al., Ensayo &eacute;giles, Gitbook, 2017
+[Paez et al. 2017] Paez N. et al., Ensayos &Aacute;giles, Gitbook, 2017
 [Patton 2014] Patton J., User Story Mapping: Discover the Whole Story, Build the Right Product, O'Reilly Media, 2014
 [Pichler 2012] Pichler R., The product canvas, disponible en l&iacute;nea: http://www.romanpichler.com/blog/the-product-canvas/, como estaba en abril del 2017
 [Rasmusson 2010] Rasmusson J., The Agile Samurai: How Agile Masters Deliver Great Software, The Pragmatic Programmers, 2010
