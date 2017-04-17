@@ -27,18 +27,18 @@ Tom De Marco, desde su larga y reconocida trayectoria, afirma:
 
 ## Del fast food al movimiento Slow
 
-En 1986, Carlo Petrini genera una marcha en contra de la apertura de un *fast food* en una plaza hist&oacute;rica de Roma. As&iacute; nace el movimiento **_Slow Food_** [^2], que crece r&aacute;pidamente, primero en Italia y luego en toda Europa, velando por un placer gastron&oacute;mico lento, sin descuidar el medio-ambiente, los productores ni las tradiciones locales. 
+En 1986, Carlo Petrini genera una marcha en contra de la apertura de un *fast food* en una plaza hist&oacute;rica de Roma. As&iacute; nace el movimiento **_Slow Food_** [Slow Food], que crece r&aacute;pidamente, primero en Italia y luego en toda Europa, velando por un placer gastron&oacute;mico lento, sin descuidar el medio-ambiente, los productores ni las tradiciones locales. 
 
-Lentamente, esta inquietud gana otros aspectos de la vida, y se extrapola el movimiento Slow a la educaci&oacute;n **_(Slow School_** [^3]), la urbanizaci&oacute;n **_(Slow City_** [^4]), el deporte, la medicina, el sexo, la moda, el dise&ntilde;o, la televisi&oacute;n y el turismo, entre otros. Hoy, algunos de estos movimientos tienen un alcance y un desarrollo mundial de alto impacto [^5], mientras nacen continuamente nuevas propuestas Slow en distintos dominios. 
+Lentamente, esta inquietud gana otros aspectos de la vida, y se extrapola el movimiento Slow a la educaci&oacute;n (**_Slow School_** [Domenech 2013], [Zavalloni 2011]), la urbanizaci&oacute;n (**_Slow Citty_** [Cittaslow]), el deporte, la medicina, el sexo, la moda, el dise&ntilde;o, la televisi&oacute;n y el turismo, entre otros. Hoy, algunos de estos movimientos tienen un alcance y un desarrollo mundial de alto impacto [^1], mientras nacen continuamente nuevas propuestas Slow en distintos dominios. 
 
-Como punto de conexi&oacute;n entre todos estos movimientos, la filosof&iacute;a Slow invita a reflexionar sobre alternativas a la preocupaci&oacute;n cada vez m&aacute;s generalizada por la hiperestimulaci&oacute;n y presi&oacute;n por la velocidad que sufrimos todos cada d&iacute;a [^6].  
+Como punto de conexi&oacute;n entre todos estos movimientos, la filosof&iacute;a Slow invita a reflexionar sobre alternativas a la preocupaci&oacute;n cada vez m&aacute;s generalizada por la hiperestimulaci&oacute;n y presi&oacute;n por la velocidad que sufrimos todos cada d&iacute;a [^2].  
 
 ## Elegir sus propios ritmos
 
 El movimiento Slow busca generar una toma de conciencia para cada individuo, pero que puede extenderse a un equipo de trabajo o a toda una organizaci&oacute;n o conjunto social. Su intenci&oacute;n es revelar la posibilidad de llevar una vida m&aacute;s plena y desacelerada, haciendo que cada individuo pueda controlar y adue&ntilde;arse de su propio ritmo vital.
 
 Como define Carl Honor&eacute;: 
->Ser Slow quiere decir controlar los ritmos de su propia vida. Usted decide qu&eacute; tan r&aacute;pido tiene que andar en cada contexto. Si hoy quiero andar r&aacute;pido, voy r&aacute;pido. Si ma&ntilde;ana quiero ir despacio, voy despacio. Estamos peleando por nuestro derecho a determinar nuestros propios ritmos [^7].
+>Ser Slow quiere decir controlar los ritmos de su propia vida. Usted decide qu&eacute; tan r&aacute;pido tiene que andar en cada contexto. Si hoy quiero andar r&aacute;pido, voy r&aacute;pido. Si ma&ntilde;ana quiero ir despacio, voy despacio. Estamos peleando por nuestro derecho a determinar nuestros propios ritmos [Honor&eacute; 2013].
 
 Esta **toma de conciencia** suele contradecir lo que nos pide la sociedad, la tecnolog&iacute;a y los distintos ecosistemas en los cuales nos desempe&ntilde;amos. Empresas, ciudades y escuelas son algunos ejemplos t&iacute;picos que nos llevan a nosotros y a nuestros hijos a un &uacute;nico ritmo fren&eacute;tico contra reloj. 
 
@@ -62,7 +62,7 @@ Y si bien puede sonar contraintuitivo, **invertir en la lentitud y en momentos S
 
 Bajar el ritmo cuando corresponde, o invertir en momentos lentos frecuentemente es una forma de prepararse y ahorrar energ&iacute;a y foco para los momentos donde necesitamos mayor velocidad, productividad o eficiencia. 
 
-Actividades diarias cortas de meditaci&oacute;n, deportes, respiraci&oacute;n, relax, disfrute o momentos de no hacer nada [^8], tienen un efecto directo sobre nuestra productividad, foco, bienestar, capacidad de concentraci&oacute;n, innovaci&oacute;n y creatividad [^9].
+Actividades diarias cortas de meditaci&oacute;n, deportes, respiraci&oacute;n, relax, disfrute o momentos de no hacer nada [Wallet 2016], tienen un efecto directo sobre nuestra productividad, foco, bienestar, capacidad de concentraci&oacute;n, innovaci&oacute;n y creatividad [Woodyard 2011], [Elder et al. 2014].
 
 Pero lo m&aacute;s importante de estos momentos Slow, es nuestra capacidad de introducir un cambio consciente de ritmo, lo cual nos permite escapar durante un rato de la presi&oacute;n de la velocidad a la cual nos vemos expuestos continuamente. 
 
@@ -92,15 +92,15 @@ Suelo ver en los pedidos a los equipos &aacute;giles una gran contradicci&oacute
 
 Este derecho obliga a darse tiempo para hacer bien las distintas tareas necesarias, y m&aacute;s que todo, tiempo para aprender a hacer bien las cosas. 
 
-Entre otras cosas, podemos mencionar las necesidades de (auto) capacitaci&oacute;n, de aprender de los propios errores, de investigar, de practicar, de consolidar buenas pr&aacute;cticas t&eacute;cnicas [^10], de contar con un mentoring t&eacute;cnico, de experimentar con nuevas herramientas, de compartir pr&aacute;cticas entre colegas, como se puede ver por ejemplo en la iniciativa *software craftsmanship* [^11].
+Entre otras cosas, podemos mencionar las necesidades de (auto) capacitaci&oacute;n, de aprender de los propios errores, de investigar, de practicar, de consolidar buenas pr&aacute;cticas t&eacute;cnicas [^3], de contar con un mentoring t&eacute;cnico, de experimentar con nuevas herramientas, de compartir pr&aacute;cticas entre colegas, como se puede ver por ejemplo en la iniciativa *software craftsmanship* [Software Craftsmanship].
 
 Es una gran inversi&oacute;n a mediano/largo plazo, que seguramente necesitar&aacute; cierto equilibrio, pero cuyos beneficios son cruciales. Pude constatar que hacer las cosas bien, suele ser muy placentero para los equipo, lo cual incrementa dr&aacute;sticamente la motivaci&oacute;n en los equipos &aacute;giles.
 
 ## Conexiones verdaderas
 
-Una conexi&oacute;n muchas veces bastardeada u olvidada en los equipos &aacute;giles es la conexi&oacute;n con el negocio y los usuarios del servicio o producto a desarrollar. El s&iacute;ntoma t&iacute;pico de una conexi&oacute;n defectuosa con el negocio es un equipo sobrepasado resolviendo una monta&ntilde;a de tickets o pedidos de micro-cambios generados por supuestos representantes del negocio, analistas de negocio o usuarios claves desconectados de la realidad [^12].
+Una conexi&oacute;n muchas veces bastardeada u olvidada en los equipos &aacute;giles es la conexi&oacute;n con el negocio y los usuarios del servicio o producto a desarrollar. El s&iacute;ntoma t&iacute;pico de una conexi&oacute;n defectuosa con el negocio es un equipo sobrepasado resolviendo una monta&ntilde;a de tickets o pedidos de micro-cambios generados por supuestos representantes del negocio, analistas de negocio o usuarios claves desconectados de la realidad [^4].
 
-En los &uacute;ltimos a&ntilde;os, se vio una gran movida en las comunidades &aacute;giles hacia pr&aacute;cticas y t&eacute;cnicas para lograr mayor conexi&oacute;n con las necesidades del negocio [^13], llendo m&aacute;s all&aacute; del rol de Due&ntilde;o de Producto que propone Scrum. 
+En los &uacute;ltimos a&ntilde;os, se vio una gran movida en las comunidades &aacute;giles hacia pr&aacute;cticas y t&eacute;cnicas para lograr mayor conexi&oacute;n con las necesidades del negocio [^5], llendo m&aacute;s all&aacute; del rol de Due&ntilde;o de Producto que propone Scrum. 
 
 El equipo requiere conectarse genuinamente con las verdaderas necesidades del negocio, y no por un tel&eacute;fono descompuesto a trav&eacute;s de m&uacute;ltiples indirecciones dudosas. 
 
@@ -126,7 +126,7 @@ Este camino involucra, por lo menos, ir construyendo mecanismos sostenibles a ni
 
 Probablemente, en algunos casos se requieran soluciones a corto plazo, donde conviene balancear este derecho con las necesidades urgentes, pero creo que se hace indispensable la reflexi&oacute;n al respecto, para entender c&oacute;mo trascender este corto plazo hacia beneficios sostenibles en el tiempo. 
 
-En esencia, el cambio m&aacute;s profundo y m&aacute;s beneficioso para el equipo &aacute;gil es dejarlo encontrar su propio camino, probablemente a trav&eacute;s de m&uacute;ltiples pruebas y errores [^14].
+En esencia, el cambio m&aacute;s profundo y m&aacute;s beneficioso para el equipo &aacute;gil es dejarlo encontrar su propio camino, probablemente a trav&eacute;s de m&uacute;ltiples pruebas y errores [^6].
 
 ## Una gran responsabilidad
 
@@ -151,7 +151,7 @@ Lograr este acompa&ntilde;amiento entre todos genera una motivaci&oacute;n, una 
 
 Podemos buscar excusas y justificaciones para retrasar la revoluci&oacute;n Slow, pero como bien lo dice Carl Honor&eacute;: 
 
-> En la guerra contra el culto de la velocidad, el frente de batalla est&aacute; en nuestra mente [^15]
+> En la guerra contra el culto de la velocidad, el frente de batalla est&aacute; en nuestra mente [Honor&eacute; 2013]
 
 &iexcl;La revoluci&oacute;n Slow est&aacute; en nosotros! Luchemos juntas y juntos por estos derechos Slow inalienables:
 
@@ -161,38 +161,18 @@ Podemos buscar excusas y justificaciones para retrasar la revoluci&oacute;n Slow
 
 > **#3 | El equipo &aacute;gil construye su propio camino de crecimiento**
 
-Necesitamos fuerza, convicci&oacute;n, motivaci&oacute;n, y a veces sutileza y paciencia, pero nunca nos rendiremos. Tomemos el ejemplo de instituciones revolucionarias [^16] como inspiraci&oacute;n para intensificar la lucha. Mantengamos siempre el inconformismo respecto a las presiones constantes por la velocidad. **&iexcl;Gritemos nuestros derechos Slow!**
+Necesitamos fuerza, convicci&oacute;n, motivaci&oacute;n, y a veces sutileza y paciencia, pero nunca nos rendiremos. Tomemos el ejemplo de instituciones revolucionarias [Fried 2017] como inspiraci&oacute;n para intensificar la lucha. Mantengamos siempre el inconformismo respecto a las presiones constantes por la velocidad. **&iexcl;Gritemos nuestros derechos Slow!**
 
 Compa&ntilde;eras y compa&ntilde;eros &aacute;giles, la revoluci&oacute;n Slow est&aacute; en marcha...
 
-[^1]: [Why time management is ruining our lives](http://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
+[^1]: Por ejemplo, en abril del 2017 se referencian 233 ciudades lentas en 30 pa&iacute;ses [Cittaslow], y 100.000 miembros del movimiento _Slow Food_, con sus 2.000 comunidades _Terra Madre,_ o sus 1.500 comunidades _Convivia_ en todo el mundo [Slow Food]
 
-[^2]: [Slow Food](http://www.slowfood.com/)
+[^2]: En su art&iacute;culo _Hiperproductividad: un asesino silencioso_ [Thompson 2017], Mar&iacute;a Thompson ejemplifica con detalles los da&ntilde;os generados por la hiperproductividad
 
-[^3]: Ver por ejemplo [Elogio de la Educaci&oacute;n Lenta](https://www.amazon.com/Elogio-educaci%C3%B3n-lenta-DOMENECH-FRANCESCH/dp/8478277196) y [La Pedagog&iacute;a del Caracol](https://www.amazon.es/pedagogia-del-caracol-MICRO-MACRO-REFERENCIAS/dp/8499800378)
+[^3]: En el cap&iacute;tulo _(Fr)agilidad_ de este mismo libro, Nicol&aacute;s Paez ilustra las debilidades del Scrum fl&aacute;cido, por sus carencias en cuestiones t&eacute;cnicas
 
-[^4]: [Slow City](http://www.cittaslow.org/)
+[^4]: En el cap&iacute;tulo _F\*\*\* the manifesto_ de este mismo libro, Juan Gabardini pregunta por el verdadero valor para el negocio
 
-[^5]: Por ejemplo, en marzo del 2017 se referencian 230 ciudades lentas en 30 pa&iacute;ses ([Slow City](http://www.cittaslow.org/)), y 100.000 miembros del movimiento [Slow Food](http://www.slowfood.com/), con sus 2.000 comunidades _Terra Madre,_ o sus 1.500 comunidades _Convivia_ en todo el mundo
+[^5]: Por ejemplo: Agile Inception Deck [Rasmusson 2010], Impact Mapping [Adzik 2012], Product Canvas [Pichler 2012], User Story Mapping [Patton 2014] 
 
-[^6]: En su art&iacute;culo [Hiperproductividad: un asesino silencioso](http://www.fuerzatres.com/2017/04/hiperproductividad-asesino-silencioso/), Mar&iacute;a Thompson ejemplifica con detalles los da&ntilde;os generados por la hiperproductividad
-
-[^7]: [Elogio de la lentitud](https://www.amazon.com/Elogio-lentitud-NO-FICCION-Spanish-ebook/dp/B00E8HI9YK)
-
-[^8]: Por ejemplo, [6 t&eacute;cnicas para un d&iacute;a slow](http://www.elproximopaso.net/2016/03/6-tecnicas-para-un-dia-slow.html)
-
-[^9]: Ver por ejemplo [Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study](http://www.thepermanentejournal.org/issues/2014/winter/43-the-permanente-journal/original-research-and-contributions/5591-transcendental-meditation.html) y [Exploring the therapeutic effects of yoga and its ability to increase quality of life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3193654/)
-
-[^10]: En su cap&iacute;tulo [(Fr)agilidad](https://nicopaez.gitbooks.io/libroagileaoc2017/content/fragilidad.html), Nicol&aacute;s Paez ilustra las debilidades del Scrum fl&aacute;cido, por sus carencias en cuestiones t&eacute;cnicas
-
-[^11]: [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
-
-[^12]: En su cap&iacute;tulo [F\*\*\* the manifesto](https://nicopaez.gitbooks.io/libroagileaoc2017/content/f_the_manifesto.html), Juan Gabardini pregunta por el verdadero valor para el negocio
-
-[^13]: Por ejemplo: [Impact Mapping](https://www.impactmapping.org/book.html), [The Agile Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/), [The Product Canvas](http://www.romanpichler.com/blog/the-product-canvas/), y [User Story Mapping](https://www.amazon.es/User-Story-Mapping-Discover-Product/dp/1491904909)
-
-[^14]: En su cap&iacute;tulo [El Coach como un impedimento](https://nicopaez.gitbooks.io/libroagileaoc2017/content/impedimento.html), Rox Mu&ntilde;oz destaca la importancia de ense&ntilde;ar al equipo &aacute;gil a encontrar su propio camino
-
-[^15]: [Elogio de la Lentitud](https://www.amazon.com/Elogio-lentitud-NO-FICCION-Spanish-ebook/dp/B00E8HI9YK)
-
-[^16]: [The calm company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457)
+[^6]: En el cap&iacute;tulo _El Coach como un impedimento_ de este mismo libro, Rox Mu&ntilde;oz destaca la importancia de ense&ntilde;ar al equipo &aacute;gil a encontrar su propio camino
