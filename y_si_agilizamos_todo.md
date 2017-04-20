@@ -65,6 +65,6 @@ La agilización de una organización con la mirada enfocada solamente en los res
 
 Comunicar adecuadamente las expectativas del cambio es esencial, pero no puede faltar la validación del entendimiento para que todos hablemos el mismo idioma; por lo menos con los actores claves. De la comunicación parten cambios de actitud profundos; si no queda claro que somos un equipo que comparte una visión común, va a ser imposible dejar de pensar de manera individual para pasar a pensar de manera conjunta.
 
-[^1]: Ver el capítulo ¿El agilismo es una secta? de Ingrid Astiz.
-[^2]: Para tener en cuenta como agente de cambio, ver el capítulo: El coach como impedimento de Rox Muñoz.
-[^3]: Estar alerta para detectar tempranamente casos de hiperproductividad, ver el artículo [Hiperproductividad: un asesino silencioso](http://www.fuerzatres.com/2017/04/hiperproductividad-asesino-silencioso/) de María Thompson.
+[^1]: Ver el capítulo ¿El agilismo es una secta? de Ingrid Astiz, en este libro.
+[^2]: Para tener en cuenta como agente de cambio, ver el capítulo: El coach como impedimento de Rox Muñoz, en este libro.
+[^3]: Estar alerta para detectar tempranamente casos de hiperproductividad, ver el artículo Hiperproductividad: un asesino silencioso http://www.fuerzatres.com/2017/04/hiperproductividad-asesino-silencioso/ de María Thompson.
