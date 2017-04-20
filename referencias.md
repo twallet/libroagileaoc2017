@@ -31,7 +31,3 @@
 [Woodyard 2011] Woodyard C., Exploring the therapeutic effects of yoga and its ability to increase quality of life, Int J Yoga, 2011
 
 [Zavalloni 2011] Zavalloni G., La Pedagog&iacute;a del Caracol, Gra&oacute;, 2011
-
-[Burkeman 2016] Burkeman, O. Why time management is ruining our lives, disponible en línea: https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives, como estaba en Abril 2017.
-
-[Thompson 2017] Thompson, M. Hiperproductividad: un asesino silencioso, disponible en línea: http://www.fuerzatres.com/2017/04/hiperproductividad-asesino-silencioso/, como estaba en Abril 2017.
