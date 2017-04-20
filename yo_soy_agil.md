@@ -1,4 +1,4 @@
-# Agilidad puertas adentro
+# Yo soy ágil, tu eres ágil, ellos no son ágiles
 
 Por Alejandro Faguaga, @afaguaga
 Etiquetas: transparencia, integridad, introspección
@@ -31,7 +31,7 @@ Ya hace un tiempo que trato de implementar en mi vida personal y profesional lo 
 
 Los invito a que elijan valores que los representen, los escriban en algún lugar visible y traten de contrastarlos en su día a día para entender si realmente están siendo coherentes con lo que esperan de los demás. Les apuesto a que, muy probablemente, les sorprenda lo alejado que estamos de alcanzar la integridad que les exigimos muchas veces a nuestro entorno.
 
-## Yo soy ágil, tu eres ágil, ellos no son ágiles
+## El agilimetro
 
 ¿Qué me hace ágil? ¿Por qué creo que soy más ágil que los demás? ¿Acaso existe un *agilimetro* que indique el porcentaje de Agilidad que corre por mis venas?
 
