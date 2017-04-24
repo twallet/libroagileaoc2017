@@ -31,7 +31,7 @@ En Scrum se dice que el Scrum Master es un líder servicial: remueve impedimento
 
 Ocurre esa Ego-Agilidad que menciona Ingrid Astiz en el capítulo «¿El agilismo es una secta?»[^4] de este mismo compilado. Existe el riesgo de que aquellos Coaches empoderados y protegidos por la bandera de la agilidad, dejen de preocuparse por desarrollar un pensamiento crítico y dicten verdades a seguir, es decir, impidan el aprendizaje emergente.
 
-Veo que ese patrón se reproduce en nuestra comunidad, ya que cuanto más participo en eventos ágiles, he visto cómo algunos agilistas consagrados han sido elevados a un nivel de rockstar: se organiza un panel de expertos, comidas en los que están los másters más reconocidos, charlas en un tono de superioridad remarcando que son ellos los poseedores de la sabiduría. No quiero minimizar sus méritos y aportes a la agilidad, ellos Para que haya rockstars también se necesitan groupies. Dejemos de poner a los agilistas en un pedestal.  Entendamos lo que dicen y después desafiémoslos.
+Veo que ese patrón se reproduce en nuestra comunidad, ya que cuanto más participo en eventos ágiles, he visto cómo algunos agilistas consagrados han sido elevados a un nivel de rockstar: se organiza un panel de expertos, comidas en los que están los másters más reconocidos, charlas en un tono de superioridad remarcando que son ellos los poseedores de la sabiduría. No quiero minimizar sus méritos y aportes a la agilidad, pero para que haya rockstars también se necesitan groupies. Dejemos de poner a los agilistas en un pedestal.  Entendamos lo que dicen y después desafiémoslos.
  
 ## Entonces, ¿darles el control de su aprendizaje?
 
