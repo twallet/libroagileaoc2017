@@ -1,5 +1,7 @@
 # Referencias
 
+[Agile Manifesto] agilemanifesto.org
+
 [Adzik 2012] Adzik G., Impact Mapping: Making a big impact with software products and projects, Provoking Thoughts, 2012
 
 [Burkeman 2016] Burkeman O., Why time management is ruining our lives, disponible en l&iacute;nea: https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives, como estaba en abril del 2017
@@ -8,11 +10,15 @@
 
 [Domenech 2013] Domenech F.J., Elogio de la educaci&oacute;n lenta, Gra&oacute;, 2013
 
+[Duhigg 2012] Duhigg C., The Power of Habit: Why We Do What We Do in Life and Business, Random House, 2012
+
 [Elder et al. 2014] Elder C., Nidich S., Moriarty F., Nidich R., Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study, The Permanente Journal, Volume 18 No. 1, 2014
 
 [Fried 2017] Fried J., The Calm Company, disponible en l&iacute;nea: https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457, como estaba en abril del 2017
 
 [Honor&eacute; 2013] Honor&eacute; C., Elogio de la lentitud, RBA, 2013
+
+[Imai 1995] Imai M., Genba Kaizen, McGraw-Hill, 1995
 
 [Patton 2014] Patton J., User Story Mapping: Discover the Whole Story, Build the Right Product, O'Reilly Media, 2014
 
