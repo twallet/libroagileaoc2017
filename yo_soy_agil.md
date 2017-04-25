@@ -15,9 +15,9 @@ El objetivo de las siguientes secciones es generar preguntas que resuenen en nue
 
 ## Cuando la agilidad te golpea fuerte en la cara
 
-En mis primeros años de agilista, como muchos de nosotros, que ingresamos al mundo de la Agilidad a través de Scrum, me concentré mucho en desarrollar la técnica, en aprender a usar los elementos del framework casi por repetición, en conocer los conceptos, adquirir el conocimiento y por sobre todo en utilizar las herramientas según el manual. Lo que en el método SHU-HA-RI[^1] se denomina el SHU (concentrarse en cómo hacer las tareas sin preocuparse demasiado por la teoría subyacente).
+En mis primeros años de agilista, como muchos de nosotros, que ingresamos al mundo de la Agilidad a través de Scrum, me concentré mucho en desarrollar la técnica, en aprender a usar los elementos del framework casi por repetición, en conocer los conceptos, adquirir el conocimiento y por sobre todo en utilizar las herramientas según el manual. Lo que en el método SHU-HA-RI [Alistair 2001] se denomina el SHU (concentrarse en cómo hacer las tareas sin preocuparse demasiado por la teoría subyacente).
 
-A medida que fueron pasando los años fui conociendo la Agilidad más en profundidad y observando que el tema iba mucho más allá de Scrum. A través de la experiencia y los golpes fui entendiendo que debía pasar al estadio del HA. Ya conocía la técnica y era hora de emprender un camino mucho más complejo y desafiante hacia el convencimiento de todo lo aprendido. permitiendo cuestionar las teorías, a mis maestros y los supuestos axiomas de la agilidad.
+A medida que fueron pasando los años fui conociendo la Agilidad más en profundidad y observando que el tema iba mucho más allá de Scrum. A través de la experiencia y los golpes fui entendiendo que debía pasar al estadio del HA. Ya conocía la técnica y era hora de emprender un camino mucho más complejo y desafiante hacia el convencimiento de todo lo aprendido, permitiendo cuestionar las teorías, a mis maestros y los supuestos axiomas de la agilidad.
 
 ¿Qué fue lo que motivó ese auto cuestionamiento? En lo personal, creo que no fue una cosa, sino la combinación de varias, pero si tengo que elegir una, creo que fue el hecho de darme cuenta que en mi vida personal no estaba siendo coherente con lo que promovía como agilista, ese fue un golpe duro de asimilar que me movilizó fuertemente.
 
@@ -45,23 +45,23 @@ Nos quejamos muchas veces de que el enfoque tradicional de proyectos está obsol
 
 ## Estás con nosotros o con ellos          	
 
-Hace un tiempo tuve la suerte de participar de un evento del PMI[^2] donde me invitaron a dar una charla de Agilidad, fue una experiencia hermosa.
+Hace un tiempo tuve la suerte de participar de un evento del PMI [PMI 2017] donde me invitaron a dar una charla de Agilidad, fue una experiencia hermosa.
 
 Pero, como en esas películas donde conocemos primero el final, y posteriormente vamos accediendo a la información sobre cómo se llegó a esa instancia, les cuento que paso desde el inicio.
 
 Cuando me invitaron, lo primero que pensé fue ¿por qué quieren que vaya alguien a hablar de agilidad a un evento del PMI? Seguramente quieren cuestionar todo lo que diga sobre la Agilidad. O mínimamente, querrán poner algunos palos en la rueda. Supuse que me tenía que preparar muy bien, porque era probable que me ataquen con preguntas y si titubeaba en mis respuestas no me iban a perdonar. Todo eso pensé.
 
-Nada más alejado de la realidad. No solo me recibieron de mil maravillas, sino que además la audiencia, la mayoría PMPs (Professional Project Managers) certificados , estuvo muy receptiva e interesada en el tema. Es más, para mi sorpresa, de seis charlas que hubo ese dia en el evento, dos de ellas fueron de Agilidad. La mía, que fue la primera, y la última charla, presentada por una PMP[^3] de Croacia. Me recibieron tan bien que sentí un poco de culpa de haber pensado que me iban a maltratar por ser agilista.
+Nada más alejado de la realidad. No solo me recibieron de mil maravillas, sino que además la audiencia, la mayoría PMPs (Professional Project Managers) certificados , estuvo muy receptiva e interesada en el tema. Es más, para mi sorpresa, de seis charlas que hubo ese dia en el evento, dos de ellas fueron de Agilidad. La mía, que fue la primera, y la última charla, presentada por una PMP [PMP 2017] de Croacia. Me recibieron tan bien que sentí un poco de culpa de haber pensado que me iban a maltratar por ser agilista.
 
-Al poco tiempo, en un grupo de la comunidad ágil se armó una discusión, de esas que surgen del tipo "PMI vs Agile", donde mucha gente dejaba ver que no había cosas en común ni puntos de colaboración entre estas dos comunidades. Me puso triste ver que era nuestra comunidad la que se cerraba en su propia visión sesgada al grito de “¡hay que quemar el PMBok[^4]!”.
+Al poco tiempo, en un grupo de la comunidad ágil se armó una discusión, de esas que surgen del tipo "PMI vs Agile", donde mucha gente dejaba ver que no había cosas en común ni puntos de colaboración entre estas dos comunidades. Me puso triste ver que era nuestra comunidad la que se cerraba en su propia visión sesgada al grito de “¡hay que quemar el PMBok [PMBok 2017]!”.
 
 En ese momento, pensé ¿qué hubiera pasado si a un evento Ágil hubiera venido a hablar un PMP sobre la Gestión de Proyectos según el PMBok? ¿Cómo lo hubiéramos recibido? ¿Cómo hubiéramos reaccionado? ¿Acaso con el mismo respeto con el que me escucharon a mi hablar de Agilidad en ese evento del PMI?
 
-Creo que como comunidad nos falta mucho en ese sentido. Suelo escuchar discusiones sobre el PMI, casi como si habláramos del enemigo. Hablamos de los PMs como si fueran personas poseídas que deben ser exorcizadas o como roles estériles que ya pasaron de moda. Yo digo: abracemos a los PMs, abracemos al PMI, a los que siguen metodologías duras, a los seguidores de Waterfall, a los sin metodología, abracemos a todos. Aprendamos y respetemos a todos. Empecemos a diferenciarnos de ellos no simplemente por creernos diferentes o mejores, sino por tener un diferencial verdadero surgido del aprendizaje y la mixtura, 
+Creo que como comunidad nos falta mucho en ese sentido. Suelo escuchar discusiones sobre el PMI, casi como si habláramos del enemigo. Hablamos de los PMs como si fueran personas poseídas que deben ser exorcizadas o como roles estériles que ya pasaron de moda. Yo digo: abracemos a los PMs, abracemos al PMI, a los que siguen metodologías duras, a los seguidores de Waterfall, a los sin metodología, abracemos a todos. Aprendamos y respetemos a todos. Empecemos a diferenciarnos de ellos no simplemente por creernos diferentes o mejores, sino por tener un diferencial verdadero surgido del aprendizaje y la mixtura. 
 
-## Scrum Master: mas *Scrum *y menos *Master *
+## Scrum Master: más *Scrum *y menos *Master *
 
-Durante mis años de trabajo utilizando Scrum he visto varios aspirantes a ScrumMaster que aparentemente se desvivían por los valores de Scrum, pero que, con la certificación CSM[^5] abajo del brazo, no podían tolerar perder su "jefatura" ganada con sudor y sangre dentro de la organización. Personas que no podían aceptar el hecho de que varios colegas que les reportaban jerárquicamente dejarán de hacerlo y empezar a tomar el rol de facilitador de un equipo en lugar de ser “el jefe” del mismo. Qué gran contradicción ¿verdad? Todo muy lindo esto del “Servant Leader” pero quiero conservar el “poder”. Esta situación la he visto mucho en diversas organizaciones y personas. 
+Durante mis años de trabajo utilizando Scrum he visto varios aspirantes a ScrumMaster que aparentemente se desvivían por los valores de Scrum, pero que, con la certificación CSM [CSM 2017] bajo el brazo, no podían tolerar perder su "jefatura" ganada con sudor y sangre dentro de la organización. Personas que no podían aceptar el hecho de que varios colegas que les reportaban jerárquicamente dejarán de hacerlo y empezar a tomar el rol de facilitador de un equipo en lugar de ser “el jefe” del mismo. Qué gran contradicción ¿verdad? Todo muy lindo esto del “Servant Leader” pero quiero conservar el “poder”. Esta situación la he visto mucho en diversas organizaciones y personas. 
 
 Si queremos ser y formar buenos Scrum Masters debemos entender y hacer entender que el liderazgo servicial no se adquiere en el CSM. Es un camino largo y sacrificado que debemos recorrer, y en ese caminar debemos ser capaces de renunciar a querer ser protagonistas egocéntricos dentro de las organizaciones. Tenemos que aprender a ser funcionales y servir a nuestros equipos, y a la vez desaprender los malos hábitos de "comandar y controlar" o hacer *micromanagement*. Todas estas son señales de falta de confianza y de que aún no estamos preparados para ser Scrum Master.
 
@@ -104,9 +104,3 @@ Creo que como comunidad a veces tendemos a querer que todo sea autoorganizado, y
 Henry Ford tenía una frase que me gusta mucho: "la calidad es hacer lo correcto cuando nadie nos mira" y yo creo que la Agilidad tiene bastante de eso, la Agilidad es hacer las cosas siguiendo nuestros principios y valores cuando nadie nos mira, puertas adentro, sin necesidad de que nos controlen, tan solo por el simple convencimiento de que es lo mejor para lograr los resultados que esperamos.
 
 Si realmente queremos cambiar y mejorar la forma en que las personas trabajan, si realmente queremos transformar las organizaciones, tenemos que empezar generando el verdadero cambio en nosotros mismos, hacia adentro, como individuos primero y como comunidad ágil luego. Nos falta un largo camino por recorrer.
-
-[^1]: De Agile Software Development, 2001: http://alistair.cockburn.us/Shu+Ha+Ri
-[^2]: Project Management Institute: http://www.pmi.org.ar/
-[^3]: Project Management Professional: https://www.pmi.org/certifications/types/project-management-pmp
-[^4]: PMBok: https://www.pmi.org/pmbok-guide-standards
-[^5]: Certified ScrumMaster: https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm

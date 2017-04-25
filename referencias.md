@@ -31,3 +31,13 @@
 [Woodyard 2011] Woodyard C., Exploring the therapeutic effects of yoga and its ability to increase quality of life, Int J Yoga, 2011
 
 [Zavalloni 2011] Zavalloni G., La Pedagog&iacute;a del Caracol, Gra&oacute;, 2011
+
+[Alistair 2001] Alistair, C. Shu Ha Ri, disponible en línea: http://alistair.cockburn.us/Shu+Ha+Ri, como estaba en Febrero de 2017
+
+[PMI 2017] Project Management Institute, disponible en linea: http://www.pmi.org.ar/, como estaba en Febrero de 2017
+
+[PMP 2017] Project Management Professional (PMP)&reg;, disponible en linea: https://www.pmi.org/certifications/types/project-management-pmp, como estaba en Febrero de 2017
+
+[PMBok 2017] PMBOK&reg; Guide and Standards, disponible en linea: https://www.pmi.org/pmbok-guide-standards, como estaba en Febrero de 2017
+
+[CSM 2017] Certified ScrumMaster&reg; (CSM), disponible en linea: https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm, como estaba en Febrero de 2017
