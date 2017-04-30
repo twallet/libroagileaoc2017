@@ -8,7 +8,7 @@ Etiquetas: retrospectivas, mejora continua, kaizen
 
 En mi primer contacto con *Agile*, y en particular, con el *Agile Manifesto*, lo que más me resonó fue el doceavo principio, este dice:
 
-*"A intervalos regulares el equipo reflexiona sobre cómo ser más efectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia."* (NOTE:  Agile Manifesto)
+*"A intervalos regulares el equipo reflexiona sobre cómo ser más efectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia."* [Agile Manifesto]
 
 A partir de ese momento, encontré en *Agile *un puente entre la pasión que tengo por mejorar continuamente cualquier aspecto de mi vida y mi trabajo, que en esa época estaba relacionado a la construcción de software.
 
@@ -38,7 +38,7 @@ Y adicionalmente, en conversaciones, charlas y conferencias es muy común escuch
 
 Es en este paradigma, donde encuentro la imposición de una promesa que las retrospectivas están asumiendo, sabiendo que son incapaces de cumplirlas. En mi opinión para generar mejora continua se requiere *kaizen*, que *Masaaki Iman* define como:
 
-*"Una estrategia para ganar a través del desarrollo de las personas"* (NOTE:  Genba Kaizen)
+*"Una estrategia para ganar a través del desarrollo de las personas"* [Imai 1995]
 
 Lamentablemente, las retrospectivas están lejos de ser una estrategia.
 
@@ -78,7 +78,7 @@ La anterior es una frase que he escuchado más de lo que me gustaría, usualment
 
 Si me hubieran preguntado qué opinaba sobre esa frase hace tres años atrás mi respuesta hubiera estado orientada a que el problema es cómo estaba siendo llevada esa retrospectiva. Hoy en día, soy consciente de que la frase es verdad, "*las retrospectivas son inútiles" *si no generan cambios, y esos cambios no se generan en las retrospectivas*.*
 
-Es por ello que en lo que resta del capítulo los invito a soltar nuestra obsesión por la planificación y a centrarnos más en la **ejecución**** **y el **aprendizaje **asociado.
+Es por ello que en lo que resta del capítulo los invito a soltar nuestra obsesión por la planificación y a centrarnos más en la **ejecución** y el **aprendizaje** asociado.
 
 ## Foco en la experimentación
 
@@ -98,7 +98,7 @@ Esta visión nos permite no sólo complementar las retrospectivas para, ahora s�
 
 La posibilidad de ver a las retrospectivas como gatillos, nos abre la puerta al mundo de la generación de hábitos, y es el último ingrediente para poder cumplir la promesa inicial de "generar mejora continua en Scrum", es decir, lograr que el equipo mejore continuamente o ser el motor de la mejora continua.
 
-La estructura de los hábitos está definida de la siguiente manera según Charles Duhigg (NOTE:  The Power of Habit):
+La estructura de los hábitos está definida de la siguiente manera según Charles Duhigg [Duhigg 2012]:
 
 * Un gatillo 
 
