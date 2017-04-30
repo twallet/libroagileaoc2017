@@ -108,6 +108,6 @@ Si quieres conversar más sobre este tema, te invito al canal de telegram #Apren
 
 [^10]: Learning Canvas propuesto por Alexandre Magno en Learning 3.0 http://www.learning30.co/resources
 
-[^11]: Ver cuando el Arte ataque de Martín Salías, en este libro
+[^11]: Ver Cuando el Arte ataque de Martín Salías, en este libro
 
 [^12]: Open Space http://www.agiles.org/agile-open-tour-open-space-technology
