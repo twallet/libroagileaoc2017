@@ -2,6 +2,8 @@
 
 [Agile Manifesto] agilemanifesto.org
 
+[Adzik 2011] Adzik G., Specification by Example: How Successful Teams Deliver the Right Software, Manning Publications, 2011
+
 [Adzik 2012] Adzik G., Impact Mapping: Making a big impact with software products and projects, Provoking Thoughts, 2012
 
 [Burkeman 2016] Burkeman O., Why time management is ruining our lives, disponible en l&iacute;nea: https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives, como estaba en abril del 2017
@@ -14,11 +16,17 @@
 
 [Elder et al. 2014] Elder C., Nidich S., Moriarty F., Nidich R., Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study, The Permanente Journal, Volume 18 No. 1, 2014
 
+[Fontdevila 2014] Fontdevila, Diego, "A Tool Evaluation Framework based on fitness to Process and Practice. A usability driven approach", ICSEA 2014, The Ninth International Conference on Software Engineering Advances, Niza, 2014.
+
 [Fried 2017] Fried J., The Calm Company, disponible en l&iacute;nea: https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457, como estaba en abril del 2017
 
 [Honor&eacute; 2013] Honor&eacute; C., Elogio de la lentitud, RBA, 2013
 
 [Imai 1995] Imai M., Genba Kaizen, McGraw-Hill, 1995
+
+[Moore 2004] Moore Geoffrey A., "Inside the Tornado: Strategies for Developing, Leveraging, and Surviving Hypergrowth Markets", HarperBusiness, 2004
+
+[Moore 2014] Moore Geoffrey A., "Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers", HarperBusiness, 3 edition 2014
 
 [Patton 2014] Patton J., User Story Mapping: Discover the Whole Story, Build the Right Product, O'Reilly Media, 2014
 
