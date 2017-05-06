@@ -2,7 +2,7 @@
 
 Por Nicolás Paez, @inicopaez
 
-Version: alfa 3, 20170414
+Version: beta 1, 20170505
 
 ## Sobre este libro
 

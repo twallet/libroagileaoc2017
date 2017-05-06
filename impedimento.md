@@ -6,7 +6,7 @@ Etiquetas: aprendizaje, auto-organización, experimentos, reflexión
 
 Este capítulo es fruto de la reflexión y toma de conciencia sobre mi rol como Agile Coach y el impacto que he tenido en los equipos con los que he trabajado. Si bien (los equipos y yo) aprendimos e implementamos muchas prácticas ágiles, tengo un sentimiento de frustración por no lograr que el aprendizaje emerja. Asimismo, pretende ser una crítica hacia el engrandecimiento del rol del Agile Coach como ese Gurú que guía a las organizaciones.
 
-«Hay que ser ágiles, hay que hacer Scrum»,  alguien dice en una empresa.  A veces es un jefe o directivo, otras veces, las menos quizá, lo dice un integrante dentro de un equipo de trabajo. Desde un modelo de pensamiento rígido, el aprendizaje de las metodologías ágiles se inicia buscando a alguien que nos enseñe cómo hacerlo o trayendo expertos para que convierta en gurús a algunos miembros de la organización.
+"Hay que ser ágiles, hay que hacer Scrum", alguien dice en una empresa.  A veces es un jefe o directivo, otras veces, las menos quizá, lo dice un integrante dentro de un equipo de trabajo. Desde un modelo de pensamiento rígido, el aprendizaje de las metodologías ágiles se inicia buscando a alguien que nos enseñe cómo hacerlo o trayendo expertos para que convierta en gurús a algunos miembros de la organización.
 
 Ya sea contratando a un grupo de coaches externos o capacitando a un grupo interno, es común que los primeros contactos con la agilidad sean por medio de entrenamiento.
 

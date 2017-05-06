@@ -1,7 +1,8 @@
 # ¿Y si agilizamos todo?
+
 Por Vanesa Savino, @VaneSavino
-## Etiquetas:
-valores ágiles, gestión del cambio
+
+Etiquetas: valores ágiles, gestión del cambio
 
 ¿Es posible llevar adelante un proceso de agilización pasando por alto las discrepancias de valores entre un agente de cambio y la organización? ¿Le sirve a una organización aplicar una agilización taxativa? ¿Qué situaciones pueden aparecer si no tenemos en cuenta esas preguntas? ¿Cómo se pueden disminuir las diferencias culturales dentro de una misma organización?
 

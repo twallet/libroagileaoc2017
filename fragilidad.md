@@ -2,9 +2,10 @@
 
 Por Nicolás Paez, @inicopaez
 
-Etiquetas: principios, mitos, humo
+Etiquetas: principios, mitos, profesionalismo
 
-Haberme acercado a las metodologías ágiles en 2003, permitió que pudiera experimentar en primera persona gran parte de su evolución a lo largo de todos estos años. Mi participación en diversos encuentros y conferencias, tanto académicas como industriales, sumada a mi trabajo como profesional independiente me ha permitido conocer muchos informáticos y ver de cerca la forma de trabajo de distintos equipos y organizaciones. Muchos argumentaban  trabajar de una forma "ágil" pero bastaba con unos pocos minutos de charla para descubrir que más que “ágil” su forma de trabajo era “frágil”. En estas páginas quiero compartir algunas ideas, reflexiones y cuestionamientos surgidos a partir de diversas observaciones e interacciones que he tenido con individuos, equipos y organizaciones dentro del ámbito informático.
+## Introducción
+Haberme acercado a las metodologías ágiles en 2003, permitió que pudiera experimentar en primera persona gran parte de su evolución a lo largo de todos estos años. Mi participación en diversos encuentros y conferencias, tanto académicas como industriales, sumada a mi trabajo como profesional independiente me ha permitido conocer muchos informáticos y ver de cerca la forma de trabajo de distintos equipos y organizaciones. Muchos argumentaban trabajar de una forma ágil pero bastaba con unos pocos minutos de charla para descubrir que más que ágil su forma de trabajo era frágil. En estas páginas quiero compartir algunas ideas, reflexiones y cuestionamientos surgidos a partir de diversas observaciones e interacciones que he tenido con individuos, equipos y organizaciones dentro del ámbito informático.
 
 ## La popularidad
 
@@ -18,7 +19,7 @@ Es de esperar entonces que aparezca gente interesada en aprovechar esas oportuni
 
 Hace un tiempo me crucé en una reunión casual con una persona con quien trabajé brevemente unos años atrás. Recordaba su nombre pero no su apellido. Al día siguiente seguía intentando recordar su apellido así que decidí buscarlo en la web. Sabía sólo su nombre y sabía que lo tenía entre mis contactos de *LinkedIn*, así que comencé a recorrer mis contactos en dicha red. Curiosamente (o no tanto) varios de mis contactos tenían posiciones del  tipo "Agile XYZ".  Hubo dos contactos en particular, cuya posición indicaba “Agilista”, lo cual tras un segundo de reflexión me llevó a preguntarme ¿Qué sería ser Agilista? Instantáneamente pensé: un evangelista predica el evangelio, entonces ¿es agilista quien predica el agilismo? Suena razonable. Siguiendo con el paralelismo, el evangelio es un escrito bien concreto. ¿Cuál sería entonces el evangelio del agilismo? Creo que el Manifiesto ágil se ajusta bastante bien a ese rol. Pero si bien hasta aquí la analogía me parece bastante válida, hay un punto en el que no funciona: quienes predican el evangelio dan sustento a sus dichos, citando precisamente los evangelios. Sin embargo, he escuchado (o leído) a varios “agilistas” hablando sobre “agilismo” sin ningún tipo de sustento. En este sentido podría ser más conveniente llamar a esas personas “fragilistas” en lugar de agilistas.
 
-Puede que en este momento el lector este desconfiando de mi, pero lo invito a que haga un experimento: la próxima vez que se encuentre con un "agilista" y lo escuchen enunciar  alguna frase del tipo “el agilismo [...]”, pregúntele si puede citar alguna fuente para reforzar su afirmación. 
+Puede que en este momento el lector este desconfiando de mi, pero lo invito a que haga un experimento: la próxima vez que se encuentre con un "agilista" y lo escuchen enunciar alguna frase del tipo “el agilismo [...]”, pregúntele si puede citar alguna fuente para reforzar su afirmación. 
 
 ## ¿Un fin, un medio o marketing?
 
