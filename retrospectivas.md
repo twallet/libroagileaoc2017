@@ -16,7 +16,7 @@ Casi en simultáneo, descubrí *Scrum *y su famosa ceremonia llamada *la retrosp
 
 *"Una reunión donde un equipo se junta para realizar una introspección de su forma de trabajo en busca de generar acciones de mejora."*
 
-Inmediatamente la reconocí como la ceremonia más valiosa . De ahí en adelante profundicé mi conocimiento sobre esta reunión en particular: leí libros, aprendí técnicas, facilité muchísimas retrospectivas y ayudé a equipos a mejorar las suyas.
+Inmediatamente la reconocí como la ceremonia más valiosa. De ahí en adelante profundicé mi conocimiento sobre esta reunión en particular: leí libros, aprendí técnicas, facilité muchísimas retrospectivas y ayudé a equipos a mejorar las suyas.
 
 ## La promesa de las retrospectivas
 
@@ -82,7 +82,7 @@ Es por ello que en lo que resta del capítulo los invito a soltar nuestra obsesi
 
 ## Foco en la experimentación
 
-El cambio se genera en el momento en el que se modifica un comportamiento (ejecución), por lo tanto, me gustaría hacer un pequeño cambio y sustituir **ejecución **por **experimentación**. La principal razón es que cuando uno experimenta deja explícito que el plan que generó es más una hipótesis que una receta certera y nos obliga,no sólo a comenzar a hacer foco en ejecutar los planes, sino a revisar el impacto de los mismos.
+El cambio se genera en el momento en el que se modifica un comportamiento (ejecución), por lo tanto, me gustaría hacer un pequeño cambio y sustituir **ejecución **por **experimentación**. La principal razón es que cuando uno experimenta deja explícito que el plan que generó es más una hipótesis que una receta certera y nos obliga, no sólo a comenzar a hacer foco en ejecutar los planes, sino a revisar el impacto de los mismos.
 
 Es así que cuando decimos que vamos a centrarnos más con la experimentación, esto incluye la búsqueda de formas en cómo facilitar:
 
