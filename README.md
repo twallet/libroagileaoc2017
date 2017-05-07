@@ -23,3 +23,27 @@ Gráficos: Omar Fernández
 Revisión: Cora Fassina y Nicolás Paez
 
 Idea y coordinación: Nicolás Paez
+
+## Agradecimientos
+
+* Kleer
+* Sinnplify
+* Micracel
+* PetroVR
+* Neoris
+* INVAP
+* Practia
+* Brainswitch
+* Orbis on time
+* Scotiabank
+* Everis
+* Subercaseaux
+* TINet
+* Banco Estado
+* Bci
+* Synaptic
+* Kleer
+* 10 Pines
+* Gestionarte
+* Continuum
+* LeanSight
