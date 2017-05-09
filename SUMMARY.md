@@ -10,4 +10,5 @@
 * [Cuando el Arte ataque](arte_ataque.md)
 * [Yo soy ágil, tu eres ágil, ellos no son ágiles](yo_soy_agil.md)
 * [Retrospectivas ≠ Mejora Continua](retrospectivas.md)
+* [Epílogo](epilogo.md)
 * [Referencias](referencias.md)
