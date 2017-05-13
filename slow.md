@@ -1,6 +1,6 @@
 # Los Derechos Slow del Equipo &Aacute;gil
 
-Por Thomas Wallet, @thomas.wallet
+Por Thomas Wallet, @WalletThomas
 
 Etiquetas: ritmos, velocidad, slow
 
@@ -29,7 +29,7 @@ Tom De Marco, desde su larga y reconocida trayectoria, afirma:
 
 En 1986, Carlo Petrini genera una marcha en contra de la apertura de un *fast food* en una plaza hist&oacute;rica de Roma. As&iacute; nace el movimiento **_Slow Food_** [Slow Food], que crece r&aacute;pidamente, primero en Italia y luego en toda Europa, velando por un placer gastron&oacute;mico lento, sin descuidar el medio-ambiente, los productores ni las tradiciones locales. 
 
-Lentamente, esta inquietud gana otros aspectos de la vida, y se extrapola el movimiento Slow a la educaci&oacute;n (**_Slow School_** [Domenech 2013], [Zavalloni 2011]), la urbanizaci&oacute;n (**_Slow Citty_** [Cittaslow]), el deporte, la medicina, el sexo, la moda, el dise&ntilde;o, la televisi&oacute;n y el turismo, entre otros. Hoy, algunos de estos movimientos tienen un alcance y un desarrollo mundial de alto impacto [^1], mientras nacen continuamente nuevas propuestas Slow en distintos dominios. 
+Lentamente, esta inquietud gana otros aspectos de la vida, y se extrapola el movimiento Slow a la educaci&oacute;n (**_Slow School_** [Domenech 2013], [Zavalloni 2011]), la urbanizaci&oacute;n (**_Slow City_** [Cittaslow]), el deporte, la medicina, el sexo, la moda, el dise&ntilde;o, la televisi&oacute;n y el turismo, entre otros. Hoy, algunos de estos movimientos tienen un alcance y un desarrollo mundial de alto impacto [^1], mientras nacen continuamente nuevas propuestas Slow en distintos dominios. 
 
 Como punto de conexi&oacute;n entre todos estos movimientos, la filosof&iacute;a Slow invita a reflexionar sobre alternativas a la preocupaci&oacute;n cada vez m&aacute;s generalizada por la hiperestimulaci&oacute;n y presi&oacute;n por la velocidad que sufrimos todos cada d&iacute;a [^2].  
 
@@ -151,7 +151,7 @@ Lograr este acompa&ntilde;amiento entre todos genera una motivaci&oacute;n, una 
 
 Podemos buscar excusas y justificaciones para retrasar la revoluci&oacute;n Slow, pero como bien lo dice Carl Honor&eacute;: 
 
-> En la guerra contra el culto de la velocidad, el frente de batalla est&aacute; en nuestra mente [Honor&eacute; 2013]
+> En la guerra contra el culto de la velocidad, el frente de batalla est&aacute; en nuestra mente [Honor&eacute; 2013].
 
 &iexcl;La revoluci&oacute;n Slow est&aacute; en nosotros! Luchemos juntas y juntos por estos derechos Slow inalienables:
 
@@ -173,6 +173,6 @@ Compa&ntilde;eras y compa&ntilde;eros &aacute;giles, la revoluci&oacute;n Slow e
 
 [^4]: En el cap&iacute;tulo _F\*\*\* the manifesto_ de este mismo libro, Juan Gabardini pregunta por el verdadero valor para el negocio
 
-[^5]: Por ejemplo: Agile Inception Deck [Rasmusson 2010], Impact Mapping [Adzik 2012], Product Canvas [Pichler 2012], User Story Mapping [Patton 2014] 
+[^5]: Por ejemplo: _Agile Inception Deck_ [Rasmusson 2010], _Impact Mapping_ [Adzik 2012], _Product Canvas_ [Pichler 2012], User_ Story Mapping_ [Patton 2014] 
 
 [^6]: En el cap&iacute;tulo _El Coach como un impedimento_ de este mismo libro, Rox Mu&ntilde;oz destaca la importancia de ense&ntilde;ar al equipo &aacute;gil a encontrar su propio camino
